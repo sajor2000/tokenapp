@@ -1,0 +1,329 @@
+================================================================================
+VITAL BINNING ANALYSIS REPORT
+================================================================================
+
+================================================================================
+DBP
+================================================================================
+Unit: mmHg
+Normal Range: 60 - 80
+Outlier Range: 0 - 200
+Total Values: 12,193,082
+
+BELOW NORMAL SEGMENT
+  Total values: 2,634,082 (21.6%)
+
+  Bin 1: -0.00 - 49.00     Count: 600,193     Token: vital_dbp_below_0_to_49
+  Bin 2: 49.00 - 53.00     Count: 526,113     Token: vital_dbp_below_49_to_53
+  Bin 3: 53.00 - 56.00     Count: 555,251     Token: vital_dbp_below_53_to_56
+  Bin 4: 56.00 - 58.00     Count: 445,075     Token: vital_dbp_below_56_to_58
+  Bin 5: 58.00 - 60.00     Count: 507,450     Token: vital_dbp_below_58_to_60
+
+NORMAL SEGMENT
+  Total values: 6,331,937 (51.9%)
+
+  Bin 1: 60.00 - 64.00     Count: 1,403,046     Token: vital_dbp_normal_60_to_64
+  Bin 2: 64.00 - 68.00     Count: 1,272,968     Token: vital_dbp_normal_64_to_68
+  Bin 3: 68.00 - 72.00     Count: 1,305,321     Token: vital_dbp_normal_68_to_72
+  Bin 4: 72.00 - 76.00     Count: 1,235,769     Token: vital_dbp_normal_72_to_76
+  Bin 5: 76.00 - 80.00     Count: 1,114,833     Token: vital_dbp_normal_76_to_80
+
+ABOVE NORMAL SEGMENT
+  Total values: 3,757,382 (30.8%)
+
+  Bin 1: 80.00 - 82.00     Count: 756,054     Token: vital_dbp_above_80_to_82
+  Bin 2: 82.00 - 86.00     Count: 841,453     Token: vital_dbp_above_82_to_86
+  Bin 3: 86.00 - 90.00     Count: 673,098     Token: vital_dbp_above_86_to_90
+  Bin 4: 90.00 - 97.00     Count: 761,366     Token: vital_dbp_above_90_to_97
+  Bin 5: 97.00 - 200.00     Count: 725,411     Token: vital_dbp_above_97_to_200
+
+TOTAL TOKENS: 15
+================================================================================
+
+================================================================================
+HEART_RATE
+================================================================================
+Unit: beats per minute
+Normal Range: 60 - 100
+Outlier Range: 0 - 300
+Total Values: 15,227,269
+
+BELOW NORMAL SEGMENT
+  Total values: 1,088,549 (7.1%)
+
+  Bin 1: -0.00 - 52.00     Count: 241,556     Token: vital_heart_rate_below_0_to_52
+  Bin 2: 52.00 - 56.00     Count: 281,770     Token: vital_heart_rate_below_52_to_56
+  Bin 3: 56.00 - 58.00     Count: 210,490     Token: vital_heart_rate_below_56_to_58
+  Bin 4: 58.00 - 60.00     Count: 354,733     Token: vital_heart_rate_below_58_to_60
+
+NORMAL SEGMENT
+  Total values: 11,538,959 (75.8%)
+
+  Bin 1: 60.00 - 70.00     Count: 2,641,436     Token: vital_heart_rate_normal_60_to_70
+  Bin 2: 70.00 - 77.00     Count: 2,261,005     Token: vital_heart_rate_normal_70_to_77
+  Bin 3: 77.00 - 83.00     Count: 2,040,830     Token: vital_heart_rate_normal_77_to_83
+  Bin 4: 83.00 - 91.00     Count: 2,482,391     Token: vital_heart_rate_normal_83_to_91
+  Bin 5: 91.00 - 100.00     Count: 2,113,297     Token: vital_heart_rate_normal_91_to_100
+
+ABOVE NORMAL SEGMENT
+  Total values: 3,038,188 (20.0%)
+
+  Bin 1: 100.00 - 103.00     Count: 732,730     Token: vital_heart_rate_above_100_to_103
+  Bin 2: 103.00 - 107.00     Count: 575,291     Token: vital_heart_rate_above_103_to_107
+  Bin 3: 107.00 - 112.00     Count: 556,065     Token: vital_heart_rate_above_107_to_112
+  Bin 4: 112.00 - 120.00     Count: 566,680     Token: vital_heart_rate_above_112_to_120
+  Bin 5: 120.00 - 300.00     Count: 607,422     Token: vital_heart_rate_above_120_to_300
+
+TOTAL TOKENS: 14
+================================================================================
+
+================================================================================
+HEIGHT_CM
+================================================================================
+Unit: cm
+Normal Range: 150 - 190
+Outlier Range: 76 - 255
+Total Values: 327,436
+
+BELOW NORMAL SEGMENT
+  Total values: 12,973 (4.0%)
+
+  Bin 1: 81.28 - 144.78     Count: 3,653     Token: vital_height_cm_below_81_to_145
+  Bin 2: 144.78 - 147.32     Count: 2,530     Token: vital_height_cm_below_145_to_147
+  Bin 3: 147.32 - 149.86     Count: 5,499     Token: vital_height_cm_below_147_to_150
+  Bin 4: 149.86 - 150.00     Count: 1,291     Token: vital_height_cm_below_149p9_to_150p0
+
+NORMAL SEGMENT
+  Total values: 306,111 (93.5%)
+
+  Bin 1: 150.00 - 160.02     Count: 75,567     Token: vital_height_cm_normal_150_to_160
+  Bin 2: 160.02 - 165.10     Count: 58,131     Token: vital_height_cm_normal_160_to_165
+  Bin 3: 165.10 - 170.18     Count: 55,903     Token: vital_height_cm_normal_165_to_170
+  Bin 4: 170.18 - 177.80     Count: 66,853     Token: vital_height_cm_normal_170_to_178
+  Bin 5: 177.80 - 190.00     Count: 49,657     Token: vital_height_cm_normal_178_to_190
+
+ABOVE NORMAL SEGMENT
+  Total values: 8,818 (2.7%)
+
+  Bin 1: 190.00 - 190.50     Count: 4,281     Token: vital_height_cm_above_190p0_to_190p5
+  Bin 2: 190.50 - 193.04     Count: 2,447     Token: vital_height_cm_above_190_to_193
+  Bin 3: 193.04 - 195.58     Count: 975     Token: vital_height_cm_above_193_to_196
+  Bin 4: 195.58 - 223.52     Count: 1,115     Token: vital_height_cm_above_196_to_224
+
+TOTAL TOKENS: 13
+================================================================================
+
+================================================================================
+MAP
+================================================================================
+Unit: mmHg
+Normal Range: 70 - 100
+Outlier Range: 0 - 250
+Total Values: 11,630,742
+
+BELOW NORMAL SEGMENT
+  Total values: 1,226,503 (10.5%)
+
+  Bin 1: -0.00 - 61.00     Count: 265,972     Token: vital_map_below_0_to_61
+  Bin 2: 61.00 - 65.00     Count: 293,076     Token: vital_map_below_61_to_65
+  Bin 3: 65.00 - 67.00     Count: 226,422     Token: vital_map_below_65_to_67
+  Bin 4: 67.00 - 69.00     Count: 278,813     Token: vital_map_below_67_to_69
+  Bin 5: 69.00 - 70.00     Count: 162,220     Token: vital_map_below_69_to_70
+
+NORMAL SEGMENT
+  Total values: 7,941,637 (68.3%)
+
+  Bin 1: 70.00 - 77.00     Count: 1,652,314     Token: vital_map_normal_70_to_77
+  Bin 2: 77.00 - 83.00     Count: 1,691,224     Token: vital_map_normal_77_to_83
+  Bin 3: 83.00 - 88.00     Count: 1,503,774     Token: vital_map_normal_83_to_88
+  Bin 4: 88.00 - 94.00     Count: 1,692,934     Token: vital_map_normal_88_to_94
+  Bin 5: 94.00 - 100.00     Count: 1,401,391     Token: vital_map_normal_94_to_100
+
+ABOVE NORMAL SEGMENT
+  Total values: 2,757,689 (23.7%)
+
+  Bin 1: 100.00 - 102.33     Count: 566,436     Token: vital_map_above_100_to_102
+  Bin 2: 102.33 - 106.00     Count: 627,221     Token: vital_map_above_102_to_106
+  Bin 3: 106.00 - 110.00     Count: 492,608     Token: vital_map_above_106_to_110
+  Bin 4: 110.00 - 117.00     Count: 547,218     Token: vital_map_above_110_to_117
+  Bin 5: 117.00 - 250.00     Count: 524,206     Token: vital_map_above_117_to_250
+
+TOTAL TOKENS: 15
+================================================================================
+
+================================================================================
+RESPIRATORY_RATE
+================================================================================
+Unit: breaths per minute
+Normal Range: 12 - 20
+Outlier Range: 0 - 60
+Total Values: 17,851,780
+
+BELOW NORMAL SEGMENT
+  Total values: 853,259 (4.8%)
+
+  Bin 1: -0.00 - 10.00     Count: 266,278     Token: vital_respiratory_rate_below_0_to_10
+  Bin 2: 10.00 - 11.00     Count: 186,060     Token: vital_respiratory_rate_below_10_to_11
+  Bin 3: 11.00 - 12.00     Count: 400,921     Token: vital_respiratory_rate_below_11_to_12
+
+NORMAL SEGMENT
+  Total values: 13,082,624 (73.3%)
+
+  Bin 1: 12.00 - 16.00     Count: 4,911,999     Token: vital_respiratory_rate_normal_12_to_16
+  Bin 2: 16.00 - 17.00     Count: 1,137,383     Token: vital_respiratory_rate_normal_16_to_17
+  Bin 3: 17.00 - 18.00     Count: 4,336,850     Token: vital_respiratory_rate_normal_17_to_18
+  Bin 4: 18.00 - 19.00     Count: 885,139     Token: vital_respiratory_rate_normal_18_to_19
+  Bin 5: 19.00 - 20.00     Count: 1,811,253     Token: vital_respiratory_rate_normal_19_to_20
+
+ABOVE NORMAL SEGMENT
+  Total values: 6,128,071 (34.3%)
+
+  Bin 1: 20.00 - 22.00     Count: 3,167,100     Token: vital_respiratory_rate_above_20_to_22
+  Bin 2: 22.00 - 24.00     Count: 955,360     Token: vital_respiratory_rate_above_22_to_24
+  Bin 3: 24.00 - 27.00     Count: 894,233     Token: vital_respiratory_rate_above_24_to_27
+  Bin 4: 27.00 - 60.00     Count: 1,111,378     Token: vital_respiratory_rate_above_27_to_60
+
+TOTAL TOKENS: 12
+================================================================================
+
+================================================================================
+SBP
+================================================================================
+Unit: mmHg
+Normal Range: 90 - 120
+Outlier Range: 0 - 300
+Total Values: 12,193,613
+
+BELOW NORMAL SEGMENT
+  Total values: 516,539 (4.2%)
+
+  Bin 1: -0.00 - 78.00     Count: 103,866     Token: vital_sbp_below_0_to_78
+  Bin 2: 78.00 - 83.00     Count: 105,659     Token: vital_sbp_below_78_to_83
+  Bin 3: 83.00 - 86.00     Count: 101,035     Token: vital_sbp_below_83_to_86
+  Bin 4: 86.00 - 89.00     Count: 136,176     Token: vital_sbp_below_86_to_89
+  Bin 5: 89.00 - 90.00     Count: 69,803     Token: vital_sbp_below_89_to_90
+
+NORMAL SEGMENT
+  Total values: 4,863,042 (39.9%)
+
+  Bin 1: 90.00 - 100.00     Count: 1,101,108     Token: vital_sbp_normal_90_to_100
+  Bin 2: 100.00 - 106.00     Count: 957,766     Token: vital_sbp_normal_100_to_106
+  Bin 3: 106.00 - 111.00     Count: 938,391     Token: vital_sbp_normal_106_to_111
+  Bin 4: 111.00 - 116.00     Count: 1,020,160     Token: vital_sbp_normal_111_to_116
+  Bin 5: 116.00 - 120.00     Count: 845,617     Token: vital_sbp_normal_116_to_120
+
+ABOVE NORMAL SEGMENT
+  Total values: 7,097,247 (58.2%)
+
+  Bin 1: 120.00 - 126.00     Count: 1,460,031     Token: vital_sbp_above_120_to_126
+  Bin 2: 126.00 - 134.00     Count: 1,531,104     Token: vital_sbp_above_126_to_134
+  Bin 3: 134.00 - 142.00     Count: 1,282,939     Token: vital_sbp_above_134_to_142
+  Bin 4: 142.00 - 155.00     Count: 1,471,088     Token: vital_sbp_above_142_to_155
+  Bin 5: 155.00 - 300.00     Count: 1,352,085     Token: vital_sbp_above_155_to_300
+
+TOTAL TOKENS: 15
+================================================================================
+
+================================================================================
+SPO2
+================================================================================
+Unit: %
+Normal Range: 95 - 100
+Outlier Range: 50 - 100
+Total Values: 14,107,422
+
+BELOW NORMAL SEGMENT
+  Total values: 4,094,893 (29.0%)
+
+  Bin 1: 50.00 - 92.00     Count: 1,113,487     Token: vital_spo2_below_50_to_92
+  Bin 2: 92.00 - 93.00     Count: 638,652     Token: vital_spo2_below_92_to_93
+  Bin 3: 93.00 - 94.00     Count: 968,841     Token: vital_spo2_below_93_to_94
+  Bin 4: 94.00 - 95.00     Count: 1,373,913     Token: vital_spo2_below_94_to_95
+
+NORMAL SEGMENT
+  Total values: 11,386,442 (80.7%)
+
+  Bin 1: 95.00 - 96.00     Count: 3,095,287     Token: vital_spo2_normal_95_to_96
+  Bin 2: 96.00 - 97.00     Count: 1,980,054     Token: vital_spo2_normal_96_to_97
+  Bin 3: 97.00 - 98.00     Count: 2,100,307     Token: vital_spo2_normal_97_to_98
+  Bin 4: 98.00 - 100.00     Count: 4,210,794     Token: vital_spo2_normal_98_to_100
+
+TOTAL TOKENS: 8
+================================================================================
+
+================================================================================
+TEMP_C
+================================================================================
+Unit: celsius
+Normal Range: 36.5 - 37.5
+Outlier Range: 32 - 44
+Total Values: 6,473,309
+
+BELOW NORMAL SEGMENT
+  Total values: 2,854,288 (44.1%)
+
+  Bin 1: 32.00 - 35.89     Count: 598,506     Token: vital_temp_c_below_32_to_36
+  Bin 2: 35.89 - 36.11     Count: 623,330     Token: vital_temp_c_below_35p9_to_36p1
+  Bin 3: 36.11 - 36.28     Count: 629,167     Token: vital_temp_c_below_36p1_to_36p3
+  Bin 4: 36.28 - 36.39     Count: 479,140     Token: vital_temp_c_below_36p3_to_36p4
+  Bin 5: 36.39 - 36.50     Count: 524,145     Token: vital_temp_c_below_36p4_to_36p5
+
+NORMAL SEGMENT
+  Total values: 3,301,784 (51.0%)
+
+  Bin 1: 36.50 - 36.61     Count: 782,628     Token: vital_temp_c_normal_36p5_to_36p6
+  Bin 2: 36.61 - 36.72     Count: 554,560     Token: vital_temp_c_normal_36p6_to_36p7
+  Bin 3: 36.72 - 36.89     Count: 660,651     Token: vital_temp_c_normal_36p7_to_36p9
+  Bin 4: 36.89 - 37.11     Count: 669,835     Token: vital_temp_c_normal_36p9_to_37p1
+  Bin 5: 37.11 - 37.50     Count: 634,110     Token: vital_temp_c_normal_37p1_to_37p5
+
+ABOVE NORMAL SEGMENT
+  Total values: 623,653 (9.6%)
+
+  Bin 1: 37.50 - 37.61     Count: 169,914     Token: vital_temp_c_above_37p5_to_37p6
+  Bin 2: 37.61 - 37.72     Count: 88,949     Token: vital_temp_c_above_37p6_to_37p7
+  Bin 3: 37.72 - 37.94     Count: 120,605     Token: vital_temp_c_above_37p7_to_37p9
+  Bin 4: 37.94 - 38.33     Count: 125,405     Token: vital_temp_c_above_37p9_to_38p3
+  Bin 5: 38.33 - 44.00     Count: 118,780     Token: vital_temp_c_above_38_to_44
+
+TOTAL TOKENS: 15
+================================================================================
+
+================================================================================
+WEIGHT_KG
+================================================================================
+Unit: kg
+Normal Range: 50 - 100
+Outlier Range: 30 - 1100
+Total Values: 647,344
+
+BELOW NORMAL SEGMENT
+  Total values: 27,234 (4.2%)
+
+  Bin 1: 30.10 - 41.60     Count: 5,461     Token: vital_weight_kg_below_30_to_42
+  Bin 2: 41.60 - 44.91     Count: 5,507     Token: vital_weight_kg_below_42_to_45
+  Bin 3: 44.91 - 47.08     Count: 5,376     Token: vital_weight_kg_below_45_to_47
+  Bin 4: 47.08 - 48.80     Count: 5,504     Token: vital_weight_kg_below_47_to_49
+  Bin 5: 48.80 - 50.00     Count: 5,386     Token: vital_weight_kg_below_49_to_50
+
+NORMAL SEGMENT
+  Total values: 472,256 (73.0%)
+
+  Bin 1: 50.01 - 63.00     Count: 95,104     Token: vital_weight_kg_normal_50_to_63
+  Bin 2: 63.00 - 71.58     Count: 93,811     Token: vital_weight_kg_normal_63_to_72
+  Bin 3: 71.58 - 79.60     Count: 94,584     Token: vital_weight_kg_normal_72_to_80
+  Bin 4: 79.60 - 88.45     Count: 94,437     Token: vital_weight_kg_normal_80_to_88
+  Bin 5: 88.45 - 100.00     Count: 94,320     Token: vital_weight_kg_normal_88_to_100
+
+ABOVE NORMAL SEGMENT
+  Total values: 147,854 (22.8%)
+
+  Bin 1: 100.02 - 105.14     Count: 29,613     Token: vital_weight_kg_above_100_to_105
+  Bin 2: 105.14 - 111.58     Count: 29,716     Token: vital_weight_kg_above_105_to_112
+  Bin 3: 111.58 - 120.56     Count: 29,402     Token: vital_weight_kg_above_112_to_121
+  Bin 4: 120.56 - 136.08     Count: 29,902     Token: vital_weight_kg_above_121_to_136
+  Bin 5: 136.08 - 606.69     Count: 29,221     Token: vital_weight_kg_above_136_to_607
+
+TOTAL TOKENS: 15
+================================================================================
+

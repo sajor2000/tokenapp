@@ -1,0 +1,123 @@
+category,unit,normal_range_lower,normal_range_upper,outlier_range_min,outlier_range_max,total_values,segment,bin_num,binning_method,bin_min,bin_max,count,percentage,token
+dbp,mmHg,60.0,80.0,0,200,12193082,below,1,quantile,-0.001,49.0,600193,22.785661190502044,vital_dbp_below_0_to_49
+dbp,mmHg,60.0,80.0,0,200,12193082,below,2,quantile,49.0,53.0,526113,19.9732961995868,vital_dbp_below_49_to_53
+dbp,mmHg,60.0,80.0,0,200,12193082,below,3,quantile,53.0,56.0,555251,21.07948803416143,vital_dbp_below_53_to_56
+dbp,mmHg,60.0,80.0,0,200,12193082,below,4,quantile,56.0,58.0,445075,16.896778460199798,vital_dbp_below_56_to_58
+dbp,mmHg,60.0,80.0,0,200,12193082,below,5,quantile,58.0,60.0,507450,19.264776115549935,vital_dbp_below_58_to_60
+dbp,mmHg,60.0,80.0,0,200,12193082,normal,1,quantile,59.999,64.0,1403046,22.158243204251715,vital_dbp_normal_60_to_64
+dbp,mmHg,60.0,80.0,0,200,12193082,normal,2,quantile,64.0,68.0,1272968,20.103927123722173,vital_dbp_normal_64_to_68
+dbp,mmHg,60.0,80.0,0,200,12193082,normal,3,quantile,68.0,72.0,1305321,20.614876616744606,vital_dbp_normal_68_to_72
+dbp,mmHg,60.0,80.0,0,200,12193082,normal,4,quantile,72.0,76.0,1235769,19.516444967787898,vital_dbp_normal_72_to_76
+dbp,mmHg,60.0,80.0,0,200,12193082,normal,5,quantile,76.0,80.0,1114833,17.606508087493605,vital_dbp_normal_76_to_80
+dbp,mmHg,60.0,80.0,0,200,12193082,above,1,quantile,79.999,82.0,756054,20.121829507886076,vital_dbp_above_80_to_82
+dbp,mmHg,60.0,80.0,0,200,12193082,above,2,quantile,82.0,86.0,841453,22.394662027975862,vital_dbp_above_82_to_86
+dbp,mmHg,60.0,80.0,0,200,12193082,above,3,quantile,86.0,90.0,673098,17.914015663033464,vital_dbp_above_86_to_90
+dbp,mmHg,60.0,80.0,0,200,12193082,above,4,quantile,90.0,97.0,761366,20.26320453975667,vital_dbp_above_90_to_97
+dbp,mmHg,60.0,80.0,0,200,12193082,above,5,quantile,97.0,200.0,725411,19.30628826134793,vital_dbp_above_97_to_200
+heart_rate,beats per minute,60.0,100.0,0,300,15227269,below,1,quantile,-0.001,52.0,241556,22.19064093577781,vital_heart_rate_below_0_to_52
+heart_rate,beats per minute,60.0,100.0,0,300,15227269,below,2,quantile,52.0,56.0,281770,25.88491652649536,vital_heart_rate_below_52_to_56
+heart_rate,beats per minute,60.0,100.0,0,300,15227269,below,3,quantile,56.0,58.0,210490,19.336750114142774,vital_heart_rate_below_56_to_58
+heart_rate,beats per minute,60.0,100.0,0,300,15227269,below,4,quantile,58.0,60.0,354733,32.58769242358406,vital_heart_rate_below_58_to_60
+heart_rate,beats per minute,60.0,100.0,0,300,15227269,normal,1,quantile,59.999,70.0,2641436,22.89145840625658,vital_heart_rate_normal_60_to_70
+heart_rate,beats per minute,60.0,100.0,0,300,15227269,normal,2,quantile,70.0,77.0,2261005,19.594531881082165,vital_heart_rate_normal_70_to_77
+heart_rate,beats per minute,60.0,100.0,0,300,15227269,normal,3,quantile,77.0,83.0,2040830,17.686430812346245,vital_heart_rate_normal_77_to_83
+heart_rate,beats per minute,60.0,100.0,0,300,15227269,normal,4,quantile,83.0,91.0,2482391,21.513127830682127,vital_heart_rate_normal_83_to_91
+heart_rate,beats per minute,60.0,100.0,0,300,15227269,normal,5,quantile,91.0,100.0,2113297,18.314451069632884,vital_heart_rate_normal_91_to_100
+heart_rate,beats per minute,60.0,100.0,0,300,15227269,above,1,quantile,99.999,103.0,732730,24.117335727742983,vital_heart_rate_above_100_to_103
+heart_rate,beats per minute,60.0,100.0,0,300,15227269,above,2,quantile,103.0,107.0,575291,18.93533250740244,vital_heart_rate_above_103_to_107
+heart_rate,beats per minute,60.0,100.0,0,300,15227269,above,3,quantile,107.0,112.0,556065,18.3025211079762,vital_heart_rate_above_107_to_112
+heart_rate,beats per minute,60.0,100.0,0,300,15227269,above,4,quantile,112.0,120.0,566680,18.651906991930716,vital_heart_rate_above_112_to_120
+heart_rate,beats per minute,60.0,100.0,0,300,15227269,above,5,quantile,120.0,300.0,607422,19.992903664947658,vital_heart_rate_above_120_to_300
+height_cm,cm,150.0,190.0,76,255,327436,below,1,quantile,81.279,144.78,3653,28.158483003160413,vital_height_cm_below_81_to_145
+height_cm,cm,150.0,190.0,76,255,327436,below,2,quantile,144.78,147.32,2530,19.5020427040777,vital_height_cm_below_145_to_147
+height_cm,cm,150.0,190.0,76,255,327436,below,3,quantile,147.32,149.86,5499,42.38803669159022,vital_height_cm_below_147_to_150
+height_cm,cm,150.0,190.0,76,255,327436,below,4,quantile,149.86,150.0,1291,9.951437601171664,vital_height_cm_below_149p9_to_150p0
+height_cm,cm,150.0,190.0,76,255,327436,normal,1,quantile,149.999,160.02,75567,24.68614326175799,vital_height_cm_normal_150_to_160
+height_cm,cm,150.0,190.0,76,255,327436,normal,2,quantile,160.02,165.1,58131,18.99017023236669,vital_height_cm_normal_160_to_165
+height_cm,cm,150.0,190.0,76,255,327436,normal,3,quantile,165.1,170.18,55903,18.262329677796615,vital_height_cm_normal_165_to_170
+height_cm,cm,150.0,190.0,76,255,327436,normal,4,quantile,170.18,177.8,66853,21.83946346260017,vital_height_cm_normal_170_to_178
+height_cm,cm,150.0,190.0,76,255,327436,normal,5,quantile,177.8,190.0,49657,16.221893365478536,vital_height_cm_normal_178_to_190
+height_cm,cm,150.0,190.0,76,255,327436,above,1,quantile,189.999,190.5,4281,48.54842367883874,vital_height_cm_above_190p0_to_190p5
+height_cm,cm,150.0,190.0,76,255,327436,above,2,quantile,190.5,193.04,2447,27.750056702200045,vital_height_cm_above_190_to_193
+height_cm,cm,150.0,190.0,76,255,327436,above,3,quantile,193.04,195.58,975,11.056929008845543,vital_height_cm_above_193_to_196
+height_cm,cm,150.0,190.0,76,255,327436,above,4,quantile,195.58,223.52,1115,12.644590610115673,vital_height_cm_above_196_to_224
+map,mmHg,70.0,100.0,0,250,11630742,below,1,quantile,-0.001,61.0,265972,21.685393350036648,vital_map_below_0_to_61
+map,mmHg,70.0,100.0,0,250,11630742,below,2,quantile,61.0,65.0,293076,23.89525341560518,vital_map_below_61_to_65
+map,mmHg,70.0,100.0,0,250,11630742,below,3,quantile,65.0,67.0,226422,18.460778326673477,vital_map_below_65_to_67
+map,mmHg,70.0,100.0,0,250,11630742,below,4,quantile,67.0,69.0,278813,22.732353691756156,vital_map_below_67_to_69
+map,mmHg,70.0,100.0,0,250,11630742,below,5,quantile,69.0,70.0,162220,13.226221215928538,vital_map_below_69_to_70
+map,mmHg,70.0,100.0,0,250,11630742,normal,1,quantile,69.999,77.0,1652314,20.805710459946734,vital_map_normal_70_to_77
+map,mmHg,70.0,100.0,0,250,11630742,normal,2,quantile,77.0,83.0,1691224,21.295659824290635,vital_map_normal_77_to_83
+map,mmHg,70.0,100.0,0,250,11630742,normal,3,quantile,83.0,88.0,1503774,18.93531522531186,vital_map_normal_83_to_88
+map,mmHg,70.0,100.0,0,250,11630742,normal,4,quantile,88.0,94.0,1692934,21.317191908922556,vital_map_normal_88_to_94
+map,mmHg,70.0,100.0,0,250,11630742,normal,5,quantile,94.0,100.0,1401391,17.646122581528218,vital_map_normal_94_to_100
+map,mmHg,70.0,100.0,0,250,11630742,above,1,quantile,99.999,102.33,566436,20.540242210053417,vital_map_above_100_to_102
+map,mmHg,70.0,100.0,0,250,11630742,above,2,quantile,102.33,106.0,627221,22.744442901284373,vital_map_above_102_to_106
+map,mmHg,70.0,100.0,0,250,11630742,above,3,quantile,106.0,110.0,492608,17.863073029627344,vital_map_above_106_to_110
+map,mmHg,70.0,100.0,0,250,11630742,above,4,quantile,110.0,117.0,547218,19.843354344888056,vital_map_above_110_to_117
+map,mmHg,70.0,100.0,0,250,11630742,above,5,quantile,117.0,250.0,524206,19.008887514146807,vital_map_above_117_to_250
+respiratory_rate,breaths per minute,12.0,20.0,0,60,17851780,below,1,quantile,-0.001,10.0,266278,31.207171562210302,vital_respiratory_rate_below_0_to_10
+respiratory_rate,breaths per minute,12.0,20.0,0,60,17851780,below,2,quantile,10.0,11.0,186060,21.805805740109392,vital_respiratory_rate_below_10_to_11
+respiratory_rate,breaths per minute,12.0,20.0,0,60,17851780,below,3,quantile,11.0,12.0,400921,46.98702269768031,vital_respiratory_rate_below_11_to_12
+respiratory_rate,breaths per minute,12.0,20.0,0,60,17851780,normal,1,quantile,11.999,16.0,4911999,37.54597701500861,vital_respiratory_rate_normal_12_to_16
+respiratory_rate,breaths per minute,12.0,20.0,0,60,17851780,normal,2,quantile,16.0,17.0,1137383,8.693844598759393,vital_respiratory_rate_normal_16_to_17
+respiratory_rate,breaths per minute,12.0,20.0,0,60,17851780,normal,3,quantile,17.0,18.0,4336850,33.14969535163588,vital_respiratory_rate_normal_17_to_18
+respiratory_rate,breaths per minute,12.0,20.0,0,60,17851780,normal,4,quantile,18.0,19.0,885139,6.765760446833907,vital_respiratory_rate_normal_18_to_19
+respiratory_rate,breaths per minute,12.0,20.0,0,60,17851780,normal,5,quantile,19.0,20.0,1811253,13.84472258776221,vital_respiratory_rate_normal_19_to_20
+respiratory_rate,breaths per minute,12.0,20.0,0,60,17851780,above,1,quantile,19.999,22.0,3167100,51.68184245907072,vital_respiratory_rate_above_20_to_22
+respiratory_rate,breaths per minute,12.0,20.0,0,60,17851780,above,2,quantile,22.0,24.0,955360,15.589897701903258,vital_respiratory_rate_above_22_to_24
+respiratory_rate,breaths per minute,12.0,20.0,0,60,17851780,above,3,quantile,24.0,27.0,894233,14.592405995296073,vital_respiratory_rate_above_24_to_27
+respiratory_rate,breaths per minute,12.0,20.0,0,60,17851780,above,4,quantile,27.0,60.0,1111378,18.135853843729944,vital_respiratory_rate_above_27_to_60
+sbp,mmHg,90.0,120.0,0,300,12193613,below,1,quantile,-0.001,78.0,103866,20.1080654122922,vital_sbp_below_0_to_78
+sbp,mmHg,90.0,120.0,0,300,12193613,below,2,quantile,78.0,83.0,105659,20.455183442102147,vital_sbp_below_78_to_83
+sbp,mmHg,90.0,120.0,0,300,12193613,below,3,quantile,83.0,86.0,101035,19.559994501867237,vital_sbp_below_83_to_86
+sbp,mmHg,90.0,120.0,0,300,12193613,below,4,quantile,86.0,89.0,136176,26.363159412938806,vital_sbp_below_86_to_89
+sbp,mmHg,90.0,120.0,0,300,12193613,below,5,quantile,89.0,90.0,69803,13.51359723079961,vital_sbp_below_89_to_90
+sbp,mmHg,90.0,120.0,0,300,12193613,normal,1,quantile,89.999,100.0,1101108,22.64237076299156,vital_sbp_normal_90_to_100
+sbp,mmHg,90.0,120.0,0,300,12193613,normal,2,quantile,100.0,106.0,957766,19.694791860732437,vital_sbp_normal_100_to_106
+sbp,mmHg,90.0,120.0,0,300,12193613,normal,3,quantile,106.0,111.0,938391,19.296378686427136,vital_sbp_normal_106_to_111
+sbp,mmHg,90.0,120.0,0,300,12193613,normal,4,quantile,111.0,116.0,1020160,20.97781594318947,vital_sbp_normal_111_to_116
+sbp,mmHg,90.0,120.0,0,300,12193613,normal,5,quantile,116.0,120.0,845617,17.388642746659396,vital_sbp_normal_116_to_120
+sbp,mmHg,90.0,120.0,0,300,12193613,above,1,quantile,119.999,126.0,1460031,20.57179354191844,vital_sbp_above_120_to_126
+sbp,mmHg,90.0,120.0,0,300,12193613,above,2,quantile,126.0,134.0,1531104,21.573210006640604,vital_sbp_above_126_to_134
+sbp,mmHg,90.0,120.0,0,300,12193613,above,3,quantile,134.0,142.0,1282939,18.076572507621616,vital_sbp_above_134_to_142
+sbp,mmHg,90.0,120.0,0,300,12193613,above,4,quantile,142.0,155.0,1471088,20.727586344395228,vital_sbp_above_142_to_155
+sbp,mmHg,90.0,120.0,0,300,12193613,above,5,quantile,155.0,300.0,1352085,19.050837599424113,vital_sbp_above_155_to_300
+spo2,%,95.0,100.0,50,100,14107422,below,1,quantile,49.999,92.0,1113487,27.192090245093098,vital_spo2_below_50_to_92
+spo2,%,95.0,100.0,50,100,14107422,below,2,quantile,92.0,93.0,638652,15.596304958395738,vital_spo2_below_92_to_93
+spo2,%,95.0,100.0,50,100,14107422,below,3,quantile,93.0,94.0,968841,23.659739094525793,vital_spo2_below_93_to_94
+spo2,%,95.0,100.0,50,100,14107422,below,4,quantile,94.0,95.0,1373913,33.55186570198537,vital_spo2_below_94_to_95
+spo2,%,95.0,100.0,50,100,14107422,normal,1,quantile,94.999,96.0,3095287,27.18397019894362,vital_spo2_normal_95_to_96
+spo2,%,95.0,100.0,50,100,14107422,normal,2,quantile,96.0,97.0,1980054,17.38957612922456,vital_spo2_normal_96_to_97
+spo2,%,95.0,100.0,50,100,14107422,normal,3,quantile,97.0,98.0,2100307,18.445683032504796,vital_spo2_normal_97_to_98
+spo2,%,95.0,100.0,50,100,14107422,normal,4,quantile,98.0,100.0,4210794,36.98077063932701,vital_spo2_normal_98_to_100
+temp_c,celsius,36.5,37.5,32,44,6473309,below,1,quantile,31.999,35.889,598506,20.96866188695745,vital_temp_c_below_32_to_36
+temp_c,celsius,36.5,37.5,32,44,6473309,below,2,quantile,35.889,36.111,623330,21.838370900203483,vital_temp_c_below_35p9_to_36p1
+temp_c,celsius,36.5,37.5,32,44,6473309,below,3,quantile,36.111,36.278,629167,22.042870235939752,vital_temp_c_below_36p1_to_36p3
+temp_c,celsius,36.5,37.5,32,44,6473309,below,4,quantile,36.278,36.389,479140,16.78667324390531,vital_temp_c_below_36p3_to_36p4
+temp_c,celsius,36.5,37.5,32,44,6473309,below,5,quantile,36.389,36.5,524145,18.363423732994008,vital_temp_c_below_36p4_to_36p5
+temp_c,celsius,36.5,37.5,32,44,6473309,normal,1,quantile,36.499,36.611,782628,23.7031859140392,vital_temp_c_normal_36p5_to_36p6
+temp_c,celsius,36.5,37.5,32,44,6473309,normal,2,quantile,36.611,36.722,554560,16.795768590555895,vital_temp_c_normal_36p6_to_36p7
+temp_c,celsius,36.5,37.5,32,44,6473309,normal,3,quantile,36.722,36.889,660651,20.0089103345343,vital_temp_c_normal_36p7_to_36p9
+temp_c,celsius,36.5,37.5,32,44,6473309,normal,4,quantile,36.889,37.111,669835,20.287062993823945,vital_temp_c_normal_36p9_to_37p1
+temp_c,celsius,36.5,37.5,32,44,6473309,normal,5,quantile,37.111,37.5,634110,19.205072167046662,vital_temp_c_normal_37p1_to_37p5
+temp_c,celsius,36.5,37.5,32,44,6473309,above,1,quantile,37.499,37.611,169914,27.244958334201876,vital_temp_c_above_37p5_to_37p6
+temp_c,celsius,36.5,37.5,32,44,6473309,above,2,quantile,37.611,37.722,88949,14.262578709635005,vital_temp_c_above_37p6_to_37p7
+temp_c,celsius,36.5,37.5,32,44,6473309,above,3,quantile,37.722,37.944,120605,19.338478288407178,vital_temp_c_above_37p7_to_37p9
+temp_c,celsius,36.5,37.5,32,44,6473309,above,4,quantile,37.944,38.333,125405,20.108137056985214,vital_temp_c_above_37p9_to_38p3
+temp_c,celsius,36.5,37.5,32,44,6473309,above,5,quantile,38.333,44.0,118780,19.045847610770732,vital_temp_c_above_38_to_44
+weight_kg,kg,50.0,100.0,30,1100,647344,below,1,quantile,30.099,41.6,5461,20.052140706469853,vital_weight_kg_below_30_to_42
+weight_kg,kg,50.0,100.0,30,1100,647344,below,2,quantile,41.6,44.906,5507,20.221047220386282,vital_weight_kg_below_42_to_45
+weight_kg,kg,50.0,100.0,30,1100,647344,below,3,quantile,44.906,47.083,5376,19.74003084379819,vital_weight_kg_below_45_to_47
+weight_kg,kg,50.0,100.0,30,1100,647344,below,4,quantile,47.083,48.8,5504,20.21003157817434,vital_weight_kg_below_47_to_49
+weight_kg,kg,50.0,100.0,30,1100,647344,below,5,quantile,48.8,50.0,5386,19.77674965117133,vital_weight_kg_below_49_to_50
+weight_kg,kg,50.0,100.0,30,1100,647344,normal,1,quantile,50.008,62.999,95104,20.138230112481367,vital_weight_kg_normal_50_to_63
+weight_kg,kg,50.0,100.0,30,1100,647344,normal,2,quantile,62.999,71.577,93811,19.8644379319691,vital_weight_kg_normal_63_to_72
+weight_kg,kg,50.0,100.0,30,1100,647344,normal,3,quantile,71.577,79.599,94584,20.028120341509688,vital_weight_kg_normal_72_to_80
+weight_kg,kg,50.0,100.0,30,1100,647344,normal,4,quantile,79.599,88.45,94437,19.996993156254238,vital_weight_kg_normal_80_to_88
+weight_kg,kg,50.0,100.0,30,1100,647344,normal,5,quantile,88.45,99.999,94320,19.97221845778561,vital_weight_kg_normal_88_to_100
+weight_kg,kg,50.0,100.0,30,1100,647344,above,1,quantile,100.01599999999999,105.143,29613,20.028541669484763,vital_weight_kg_above_100_to_105
+weight_kg,kg,50.0,100.0,30,1100,647344,above,2,quantile,105.143,111.584,29716,20.0982049859997,vital_weight_kg_above_105_to_112
+weight_kg,kg,50.0,100.0,30,1100,647344,above,3,quantile,111.584,120.565,29402,19.885833322060954,vital_weight_kg_above_112_to_121
+weight_kg,kg,50.0,100.0,30,1100,647344,above,4,quantile,120.565,136.078,29902,20.224004761453866,vital_weight_kg_above_121_to_136
+weight_kg,kg,50.0,100.0,30,1100,647344,above,5,quantile,136.078,606.694,29221,19.763415261000716,vital_weight_kg_above_136_to_607

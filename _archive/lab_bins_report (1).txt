@@ -1,0 +1,1474 @@
+================================================================================
+LAB BINNING ANALYSIS REPORT
+================================================================================
+
+================================================================================
+PCO2_ARTERIAL
+================================================================================
+Unit: mmHg
+Normal Range: 35 - 45
+Outlier Range: 0.0 - 250.0
+Total Values: 860,183
+
+BELOW NORMAL SEGMENT
+  Total values: 278,935 (32.4%)
+
+  Bin 1: 1.90 - 24.70     Count: 55,902     Token: lab_pco2_arterial_below_2_to_25
+  Bin 2: 24.70 - 28.50     Count: 56,110     Token: lab_pco2_arterial_below_25_to_28
+  Bin 3: 28.50 - 31.90     Count: 55,525     Token: lab_pco2_arterial_below_28_to_32
+  Bin 4: 31.90 - 34.00     Count: 77,726     Token: lab_pco2_arterial_below_32_to_34
+  Bin 5: 34.00 - 35.00     Count: 33,672     Token: lab_pco2_arterial_below_34_to_35
+
+NORMAL SEGMENT
+  Total values: 393,884 (45.8%)
+
+  Bin 1: 35.00 - 37.00     Count: 108,759     Token: lab_pco2_arterial_normal_35_to_37
+  Bin 2: 37.00 - 39.00     Count: 82,156     Token: lab_pco2_arterial_normal_37_to_39
+  Bin 3: 39.00 - 41.00     Count: 77,933     Token: lab_pco2_arterial_normal_39_to_41
+  Bin 4: 41.00 - 43.00     Count: 68,613     Token: lab_pco2_arterial_normal_41_to_43
+  Bin 5: 43.00 - 45.00     Count: 56,423     Token: lab_pco2_arterial_normal_43_to_45
+
+ABOVE NORMAL SEGMENT
+  Total values: 245,659 (28.6%)
+
+  Bin 1: 45.00 - 46.90     Count: 49,157     Token: lab_pco2_arterial_above_45_to_47
+  Bin 2: 46.90 - 49.00     Count: 52,586     Token: lab_pco2_arterial_above_47_to_49
+  Bin 3: 49.00 - 53.00     Count: 46,062     Token: lab_pco2_arterial_above_49_to_53
+  Bin 4: 53.00 - 61.00     Count: 49,096     Token: lab_pco2_arterial_above_53_to_61
+  Bin 5: 61.00 - 249.00     Count: 48,758     Token: lab_pco2_arterial_above_61_to_249
+
+TOTAL TOKENS: 15
+================================================================================
+
+================================================================================
+PCO2_VENOUS
+================================================================================
+Unit: mmHg
+Normal Range: 40 - 52
+Outlier Range: 0.0 - 250.0
+Total Values: 196,213
+
+BELOW NORMAL SEGMENT
+  Total values: 120,445 (61.4%)
+
+  Bin 1: 2.50 - 24.90     Count: 24,110     Token: lab_pco2_venous_below_2_to_25
+  Bin 2: 24.90 - 28.00     Count: 25,795     Token: lab_pco2_venous_below_25_to_28
+  Bin 3: 28.00 - 32.00     Count: 26,602     Token: lab_pco2_venous_below_28_to_32
+  Bin 4: 32.00 - 36.00     Count: 21,809     Token: lab_pco2_venous_below_32_to_36
+  Bin 5: 36.00 - 40.00     Count: 22,129     Token: lab_pco2_venous_below_36_to_40
+
+NORMAL SEGMENT
+  Total values: 54,498 (27.8%)
+
+  Bin 1: 40.00 - 41.80     Count: 10,989     Token: lab_pco2_venous_normal_40_to_42
+  Bin 2: 41.80 - 43.90     Count: 11,032     Token: lab_pco2_venous_normal_42_to_44
+  Bin 3: 43.90 - 46.00     Count: 11,850     Token: lab_pco2_venous_normal_44_to_46
+  Bin 4: 46.00 - 48.70     Count: 9,765     Token: lab_pco2_venous_normal_46_to_49
+  Bin 5: 48.70 - 52.00     Count: 10,862     Token: lab_pco2_venous_normal_49_to_52
+
+ABOVE NORMAL SEGMENT
+  Total values: 25,373 (12.9%)
+
+  Bin 1: 52.00 - 54.00     Count: 5,883     Token: lab_pco2_venous_above_52_to_54
+  Bin 2: 54.00 - 56.70     Count: 4,306     Token: lab_pco2_venous_above_54_to_57
+  Bin 3: 56.70 - 60.80     Count: 5,060     Token: lab_pco2_venous_above_57_to_61
+  Bin 4: 60.80 - 68.00     Count: 5,130     Token: lab_pco2_venous_above_61_to_68
+  Bin 5: 68.00 - 217.00     Count: 4,994     Token: lab_pco2_venous_above_68_to_217
+
+TOTAL TOKENS: 15
+================================================================================
+
+================================================================================
+PH_ARTERIAL
+================================================================================
+Unit: (no units)
+Normal Range: 7.35 - 7.45
+Outlier Range: 6.0 - 10.0
+Total Values: 932,462
+
+BELOW NORMAL SEGMENT
+  Total values: 257,430 (27.6%)
+
+  Bin 1: 6.55 - 7.23     Count: 51,611     Token: lab_ph_arterial_below_6p6_to_7p2
+  Bin 2: 7.23 - 7.28     Count: 51,850     Token: lab_ph_arterial_below_7p2_to_7p3
+  Bin 3: 7.28 - 7.31     Count: 51,434     Token: lab_ph_arterial_below_7p3_to_7p3
+  Bin 4: 7.31 - 7.33     Count: 51,595     Token: lab_ph_arterial_below_7p3_to_7p3
+  Bin 5: 7.33 - 7.35     Count: 50,940     Token: lab_ph_arterial_below_7p3_to_7p3
+
+NORMAL SEGMENT
+  Total values: 470,188 (50.4%)
+
+  Bin 1: 7.35 - 7.37     Count: 94,922     Token: lab_ph_arterial_normal_7p3_to_7p4
+  Bin 2: 7.37 - 7.39     Count: 96,479     Token: lab_ph_arterial_normal_7p4_to_7p4
+  Bin 3: 7.39 - 7.41     Count: 93,431     Token: lab_ph_arterial_normal_7p4_to_7p4
+  Bin 4: 7.41 - 7.43     Count: 94,943     Token: lab_ph_arterial_normal_7p4_to_7p4
+  Bin 5: 7.43 - 7.45     Count: 90,413     Token: lab_ph_arterial_normal_7p4_to_7p5
+
+ABOVE NORMAL SEGMENT
+  Total values: 212,711 (22.8%)
+
+  Bin 1: 7.45 - 7.46     Count: 42,611     Token: lab_ph_arterial_above_7p4_to_7p5
+  Bin 2: 7.46 - 7.47     Count: 43,978     Token: lab_ph_arterial_above_7p5_to_7p5
+  Bin 3: 7.47 - 7.49     Count: 42,829     Token: lab_ph_arterial_above_7p5_to_7p5
+  Bin 4: 7.49 - 7.51     Count: 41,107     Token: lab_ph_arterial_above_7p5_to_7p5
+  Bin 5: 7.51 - 8.14     Count: 42,186     Token: lab_ph_arterial_above_7p5_to_8p1
+
+TOTAL TOKENS: 15
+================================================================================
+
+================================================================================
+PH_VENOUS
+================================================================================
+Unit: (no units)
+Normal Range: 7.31 - 7.41
+Outlier Range: 5.0 - 10.0
+Total Values: 160,658
+
+BELOW NORMAL SEGMENT
+  Total values: 26,920 (16.8%)
+
+  Bin 1: 6.55 - 7.21     Count: 5,402     Token: lab_ph_venous_below_6p6_to_7p2
+  Bin 2: 7.21 - 7.25     Count: 5,425     Token: lab_ph_venous_below_7p2_to_7p3
+  Bin 3: 7.25 - 7.28     Count: 5,664     Token: lab_ph_venous_below_7p3_to_7p3
+  Bin 4: 7.28 - 7.30     Count: 5,295     Token: lab_ph_venous_below_7p3_to_7p3
+  Bin 5: 7.30 - 7.31     Count: 5,134     Token: lab_ph_venous_below_7p3_to_7p3
+
+NORMAL SEGMENT
+  Total values: 83,112 (51.7%)
+
+  Bin 1: 7.31 - 7.34     Count: 16,759     Token: lab_ph_venous_normal_7p3_to_7p3
+  Bin 2: 7.34 - 7.36     Count: 17,179     Token: lab_ph_venous_normal_7p3_to_7p4
+  Bin 3: 7.36 - 7.38     Count: 16,391     Token: lab_ph_venous_normal_7p4_to_7p4
+  Bin 4: 7.38 - 7.39     Count: 16,397     Token: lab_ph_venous_normal_7p4_to_7p4
+  Bin 5: 7.39 - 7.41     Count: 16,386     Token: lab_ph_venous_normal_7p4_to_7p4
+
+ABOVE NORMAL SEGMENT
+  Total values: 53,103 (33.1%)
+
+  Bin 1: 7.41 - 7.42     Count: 10,731     Token: lab_ph_venous_above_7p4_to_7p4
+  Bin 2: 7.42 - 7.43     Count: 10,575     Token: lab_ph_venous_above_7p4_to_7p4
+  Bin 3: 7.43 - 7.45     Count: 10,839     Token: lab_ph_venous_above_7p4_to_7p5
+  Bin 4: 7.45 - 7.48     Count: 10,647     Token: lab_ph_venous_above_7p5_to_7p5
+  Bin 5: 7.48 - 7.87     Count: 10,311     Token: lab_ph_venous_above_7p5_to_7p9
+
+TOTAL TOKENS: 15
+================================================================================
+
+================================================================================
+PO2_ARTERIAL
+================================================================================
+Unit: mmHg
+Normal Range: 80 - 100
+Outlier Range: 0.0 - 700.0
+Total Values: 766,923
+
+BELOW NORMAL SEGMENT
+  Total values: 179,565 (23.4%)
+
+  Bin 1: 7.00 - 58.00     Count: 38,223     Token: lab_po2_arterial_below_7_to_58
+  Bin 2: 58.00 - 66.00     Count: 38,740     Token: lab_po2_arterial_below_58_to_66
+  Bin 3: 66.00 - 71.00     Count: 33,981     Token: lab_po2_arterial_below_66_to_71
+  Bin 4: 71.00 - 76.00     Count: 37,682     Token: lab_po2_arterial_below_71_to_76
+  Bin 5: 76.00 - 80.00     Count: 30,939     Token: lab_po2_arterial_below_76_to_80
+
+NORMAL SEGMENT
+  Total values: 142,321 (18.6%)
+
+  Bin 1: 80.00 - 83.00     Count: 30,874     Token: lab_po2_arterial_normal_80_to_83
+  Bin 2: 83.00 - 87.00     Count: 29,290     Token: lab_po2_arterial_normal_83_to_87
+  Bin 3: 87.00 - 91.00     Count: 27,923     Token: lab_po2_arterial_normal_87_to_91
+  Bin 4: 91.00 - 96.00     Count: 31,141     Token: lab_po2_arterial_normal_91_to_96
+  Bin 5: 96.00 - 100.00     Count: 23,093     Token: lab_po2_arterial_normal_96_to_100
+
+ABOVE NORMAL SEGMENT
+  Total values: 458,456 (59.8%)
+
+  Bin 1: 100.00 - 118.00     Count: 93,828     Token: lab_po2_arterial_above_100_to_118
+  Bin 2: 118.00 - 141.00     Count: 93,046     Token: lab_po2_arterial_above_118_to_141
+  Bin 3: 141.00 - 168.00     Count: 88,584     Token: lab_po2_arterial_above_141_to_168
+  Bin 4: 168.00 - 209.00     Count: 92,296     Token: lab_po2_arterial_above_168_to_209
+  Bin 5: 209.00 - 678.00     Count: 90,702     Token: lab_po2_arterial_above_209_to_678
+
+TOTAL TOKENS: 15
+================================================================================
+
+================================================================================
+SO2_ARTERIAL
+================================================================================
+Unit: %
+Normal Range: 90 - 100
+Outlier Range: 0.0 - 100.0
+Total Values: 602,177
+
+BELOW NORMAL SEGMENT
+  Total values: 44,235 (7.3%)
+
+  Bin 1: 3.30 - 76.60     Count: 8,870     Token: lab_so2_arterial_below_3_to_77
+  Bin 2: 76.60 - 83.90     Count: 8,917     Token: lab_so2_arterial_below_77_to_84
+  Bin 3: 83.90 - 87.10     Count: 9,059     Token: lab_so2_arterial_below_84_to_87
+  Bin 4: 87.10 - 88.90     Count: 9,192     Token: lab_so2_arterial_below_87_to_89
+  Bin 5: 88.90 - 90.00     Count: 8,197     Token: lab_so2_arterial_below_89_to_90
+
+NORMAL SEGMENT
+  Total values: 558,904 (92.8%)
+
+  Bin 1: 90.00 - 95.60     Count: 112,422     Token: lab_so2_arterial_normal_90_to_96
+  Bin 2: 95.60 - 97.70     Count: 114,821     Token: lab_so2_arterial_normal_96_to_98
+  Bin 3: 97.70 - 98.80     Count: 122,485     Token: lab_so2_arterial_normal_98_to_99
+  Bin 4: 98.80 - 99.30     Count: 100,291     Token: lab_so2_arterial_normal_98p8_to_99p3
+  Bin 5: 99.30 - 100.00     Count: 108,885     Token: lab_so2_arterial_normal_99p3_to_100p0
+
+TOTAL TOKENS: 10
+================================================================================
+
+================================================================================
+SO2_CENTRAL_VENOUS
+================================================================================
+Unit: %
+Normal Range: 60 - 75
+Outlier Range: 0.0 - 100.0
+Total Values: 185,261
+
+BELOW NORMAL SEGMENT
+  Total values: 67,948 (36.7%)
+
+  Bin 1: 3.00 - 37.60     Count: 13,607     Token: lab_so2_central_venous_below_3_to_38
+  Bin 2: 37.60 - 47.50     Count: 13,676     Token: lab_so2_central_venous_below_38_to_48
+  Bin 3: 47.50 - 53.00     Count: 13,826     Token: lab_so2_central_venous_below_48_to_53
+  Bin 4: 53.00 - 57.00     Count: 14,083     Token: lab_so2_central_venous_below_53_to_57
+  Bin 5: 57.00 - 60.00     Count: 12,756     Token: lab_so2_central_venous_below_57_to_60
+
+NORMAL SEGMENT
+  Total values: 66,996 (36.2%)
+
+  Bin 1: 60.00 - 62.80     Count: 13,461     Token: lab_so2_central_venous_normal_60_to_63
+  Bin 2: 62.80 - 65.50     Count: 13,548     Token: lab_so2_central_venous_normal_63_to_66
+  Bin 3: 65.50 - 68.30     Count: 13,462     Token: lab_so2_central_venous_normal_66_to_68
+  Bin 4: 68.30 - 71.40     Count: 13,281     Token: lab_so2_central_venous_normal_68_to_71
+  Bin 5: 71.40 - 75.00     Count: 13,244     Token: lab_so2_central_venous_normal_71_to_75
+
+ABOVE NORMAL SEGMENT
+  Total values: 52,751 (28.5%)
+
+  Bin 1: 75.00 - 78.10     Count: 10,569     Token: lab_so2_central_venous_above_75_to_78
+  Bin 2: 78.10 - 82.30     Count: 10,592     Token: lab_so2_central_venous_above_78_to_82
+  Bin 3: 82.30 - 87.00     Count: 10,532     Token: lab_so2_central_venous_above_82_to_87
+  Bin 4: 87.00 - 93.00     Count: 11,308     Token: lab_so2_central_venous_above_87_to_93
+  Bin 5: 93.00 - 100.00     Count: 9,750     Token: lab_so2_central_venous_above_93_to_100
+
+TOTAL TOKENS: 15
+================================================================================
+
+================================================================================
+SODIUM
+================================================================================
+Unit: mmol/L
+Normal Range: 135 - 145
+Outlier Range: 90.0 - 210.0
+Total Values: 9,247,208
+
+BELOW NORMAL SEGMENT
+  Total values: 2,164,960 (23.4%)
+
+  Bin 1: 98.00 - 130.00     Count: 433,400     Token: lab_sodium_below_98_to_130
+  Bin 2: 130.00 - 133.00     Count: 697,287     Token: lab_sodium_below_130_to_133
+  Bin 3: 133.00 - 134.00     Count: 438,697     Token: lab_sodium_below_133_to_134
+  Bin 4: 134.00 - 135.00     Count: 595,576     Token: lab_sodium_below_134_to_135
+
+NORMAL SEGMENT
+  Total values: 7,300,303 (78.9%)
+
+  Bin 1: 135.00 - 137.00     Count: 2,310,335     Token: lab_sodium_normal_135_to_137
+  Bin 2: 137.00 - 138.00     Count: 1,055,793     Token: lab_sodium_normal_137_to_138
+  Bin 3: 138.00 - 139.00     Count: 1,060,914     Token: lab_sodium_normal_138_to_139
+  Bin 4: 139.00 - 141.00     Count: 1,674,365     Token: lab_sodium_normal_139_to_141
+  Bin 5: 141.00 - 145.00     Count: 1,198,896     Token: lab_sodium_normal_141_to_145
+
+ABOVE NORMAL SEGMENT
+  Total values: 515,377 (5.6%)
+
+  Bin 1: 145.00 - 146.00     Count: 232,207     Token: lab_sodium_above_145_to_146
+  Bin 2: 146.00 - 148.00     Count: 121,829     Token: lab_sodium_above_146_to_148
+  Bin 3: 148.00 - 150.00     Count: 69,249     Token: lab_sodium_above_148_to_150
+  Bin 4: 150.00 - 191.00     Count: 92,092     Token: lab_sodium_above_150_to_191
+
+TOTAL TOKENS: 13
+================================================================================
+
+================================================================================
+BICARBONATE
+================================================================================
+Unit: mmol/L
+Normal Range: 22 - 28
+Outlier Range: 0.0 - 50.0
+Total Values: 7,803,278
+
+BELOW NORMAL SEGMENT
+  Total values: 3,337,626 (42.8%)
+
+  Bin 1: 2.00 - 18.00     Count: 912,359     Token: lab_bicarbonate_below_2_to_18
+  Bin 2: 18.00 - 20.00     Count: 948,408     Token: lab_bicarbonate_below_18_to_20
+  Bin 3: 20.00 - 21.00     Count: 678,078     Token: lab_bicarbonate_below_20_to_21
+  Bin 4: 21.00 - 22.00     Count: 798,781     Token: lab_bicarbonate_below_21_to_22
+
+NORMAL SEGMENT
+  Total values: 4,590,245 (58.8%)
+
+  Bin 1: 22.00 - 23.00     Count: 1,659,838     Token: lab_bicarbonate_normal_22_to_23
+  Bin 2: 23.00 - 24.00     Count: 843,744     Token: lab_bicarbonate_normal_23_to_24
+  Bin 3: 24.00 - 25.00     Count: 739,900     Token: lab_bicarbonate_normal_24_to_25
+  Bin 4: 25.00 - 26.00     Count: 593,258     Token: lab_bicarbonate_normal_25_to_26
+  Bin 5: 26.00 - 28.00     Count: 753,505     Token: lab_bicarbonate_normal_26_to_28
+
+ABOVE NORMAL SEGMENT
+  Total values: 984,312 (12.6%)
+
+  Bin 1: 28.00 - 29.00     Count: 518,532     Token: lab_bicarbonate_above_28_to_29
+  Bin 2: 29.00 - 30.00     Count: 140,774     Token: lab_bicarbonate_above_29_to_30
+  Bin 3: 30.00 - 32.00     Count: 157,929     Token: lab_bicarbonate_above_30_to_32
+  Bin 4: 32.00 - 50.00     Count: 167,077     Token: lab_bicarbonate_above_32_to_50
+
+TOTAL TOKENS: 13
+================================================================================
+
+================================================================================
+BUN
+================================================================================
+Unit: mg/dL
+Normal Range: 8 - 23
+Outlier Range: 0.0 - 250.0
+Total Values: 6,578,894
+
+BELOW NORMAL SEGMENT
+  Total values: 761,306 (11.6%)
+
+  Bin 1: 2.00 - 5.00     Count: 210,251     Token: lab_bun_below_2_to_5
+  Bin 2: 5.00 - 6.00     Count: 142,974     Token: lab_bun_below_5_to_6
+  Bin 3: 6.00 - 7.00     Count: 185,409     Token: lab_bun_below_6_to_7
+  Bin 4: 7.00 - 8.00     Count: 222,672     Token: lab_bun_below_7_to_8
+
+NORMAL SEGMENT
+  Total values: 3,630,173 (55.2%)
+
+  Bin 1: 8.00 - 10.00     Count: 745,341     Token: lab_bun_normal_8_to_10
+  Bin 2: 10.00 - 13.00     Count: 855,854     Token: lab_bun_normal_10_to_13
+  Bin 3: 13.00 - 16.00     Count: 775,779     Token: lab_bun_normal_13_to_16
+  Bin 4: 16.00 - 19.00     Count: 630,837     Token: lab_bun_normal_16_to_19
+  Bin 5: 19.00 - 23.00     Count: 622,362     Token: lab_bun_normal_19_to_23
+
+ABOVE NORMAL SEGMENT
+  Total values: 2,545,991 (38.7%)
+
+  Bin 1: 23.00 - 27.00     Count: 586,534     Token: lab_bun_above_23_to_27
+  Bin 2: 27.00 - 33.00     Count: 474,018     Token: lab_bun_above_27_to_33
+  Bin 3: 33.00 - 43.00     Count: 507,292     Token: lab_bun_above_33_to_43
+  Bin 4: 43.00 - 59.00     Count: 469,079     Token: lab_bun_above_43_to_59
+  Bin 5: 59.00 - 249.00     Count: 509,068     Token: lab_bun_above_59_to_249
+
+TOTAL TOKENS: 14
+================================================================================
+
+================================================================================
+CALCIUM_TOTAL
+================================================================================
+Unit: mg/dL
+Normal Range: 8.2 - 10.2
+Outlier Range: 0.0 - 20.0
+Total Values: 8,891,913
+
+BELOW NORMAL SEGMENT
+  Total values: 1,960,897 (22.1%)
+
+  Bin 1: 2.20 - 7.40     Count: 396,474     Token: lab_calcium_total_below_2_to_7
+  Bin 2: 7.40 - 7.80     Count: 541,187     Token: lab_calcium_total_below_7p4_to_7p8
+  Bin 3: 7.80 - 8.00     Count: 444,919     Token: lab_calcium_total_below_7p8_to_8p0
+  Bin 4: 8.00 - 8.10     Count: 271,437     Token: lab_calcium_total_below_8p0_to_8p1
+  Bin 5: 8.10 - 8.20     Count: 306,880     Token: lab_calcium_total_below_8p1_to_8p2
+
+NORMAL SEGMENT
+  Total values: 6,865,926 (77.2%)
+
+  Bin 1: 8.20 - 8.50     Count: 1,441,917     Token: lab_calcium_total_normal_8p2_to_8p5
+  Bin 2: 8.50 - 8.80     Count: 1,342,577     Token: lab_calcium_total_normal_8p5_to_8p8
+  Bin 3: 8.80 - 9.10     Count: 1,348,377     Token: lab_calcium_total_normal_8p8_to_9p1
+  Bin 4: 9.10 - 9.50     Count: 1,484,119     Token: lab_calcium_total_normal_9p1_to_9p5
+  Bin 5: 9.50 - 10.20     Count: 1,248,936     Token: lab_calcium_total_normal_9p5_to_10p2
+
+ABOVE NORMAL SEGMENT
+  Total values: 463,570 (5.2%)
+
+  Bin 1: 10.20 - 10.30     Count: 164,333     Token: lab_calcium_total_above_10p2_to_10p3
+  Bin 2: 10.30 - 10.40     Count: 58,377     Token: lab_calcium_total_above_10p3_to_10p4
+  Bin 3: 10.40 - 10.60     Count: 82,236     Token: lab_calcium_total_above_10p4_to_10p6
+  Bin 4: 10.60 - 10.90     Count: 70,570     Token: lab_calcium_total_above_10p6_to_10p9
+  Bin 5: 10.90 - 19.90     Count: 88,054     Token: lab_calcium_total_above_11_to_20
+
+TOTAL TOKENS: 15
+================================================================================
+
+================================================================================
+CHLORIDE
+================================================================================
+Unit: mmol/L
+Normal Range: 96 - 106
+Outlier Range: 50.0 - 140.0
+Total Values: 6,587,363
+
+BELOW NORMAL SEGMENT
+  Total values: 456,289 (6.9%)
+
+  Bin 1: 55.00 - 91.00     Count: 109,444     Token: lab_chloride_below_55_to_91
+  Bin 2: 91.00 - 93.00     Count: 85,649     Token: lab_chloride_below_91_to_93
+  Bin 3: 93.00 - 95.00     Count: 150,360     Token: lab_chloride_below_93_to_95
+  Bin 4: 95.00 - 96.00     Count: 110,836     Token: lab_chloride_below_95_to_96
+
+NORMAL SEGMENT
+  Total values: 3,730,273 (56.6%)
+
+  Bin 1: 96.00 - 100.00     Count: 941,299     Token: lab_chloride_normal_96_to_100
+  Bin 2: 100.00 - 102.00     Count: 726,067     Token: lab_chloride_normal_100_to_102
+  Bin 3: 102.00 - 104.00     Count: 961,765     Token: lab_chloride_normal_102_to_104
+  Bin 4: 104.00 - 105.00     Count: 547,939     Token: lab_chloride_normal_104_to_105
+  Bin 5: 105.00 - 106.00     Count: 553,203     Token: lab_chloride_normal_105_to_106
+
+ABOVE NORMAL SEGMENT
+  Total values: 3,064,840 (46.5%)
+
+  Bin 1: 106.00 - 107.00     Count: 1,079,954     Token: lab_chloride_above_106_to_107
+  Bin 2: 107.00 - 108.00     Count: 466,271     Token: lab_chloride_above_107_to_108
+  Bin 3: 108.00 - 109.00     Count: 386,801     Token: lab_chloride_above_108_to_109
+  Bin 4: 109.00 - 111.00     Count: 525,277     Token: lab_chloride_above_109_to_111
+  Bin 5: 111.00 - 140.00     Count: 606,537     Token: lab_chloride_above_111_to_140
+
+TOTAL TOKENS: 14
+================================================================================
+
+================================================================================
+CREATININE
+================================================================================
+Unit: mg/dL
+Normal Range: 0.6 - 1.2
+Outlier Range: 0.0 - 20.0
+Total Values: 8,243,005
+
+BELOW NORMAL SEGMENT
+  Total values: 766,077 (9.3%)
+
+  Bin 1: 0.20 - 0.49     Count: 163,601     Token: lab_creatinine_below_0p2_to_0p5
+  Bin 2: 0.49 - 0.53     Count: 144,347     Token: lab_creatinine_below_0p5_to_0p5
+  Bin 3: 0.53 - 0.56     Count: 161,894     Token: lab_creatinine_below_0p5_to_0p6
+  Bin 4: 0.56 - 0.59     Count: 213,044     Token: lab_creatinine_below_0p6_to_0p6
+  Bin 5: 0.59 - 0.60     Count: 83,191     Token: lab_creatinine_below_0p6_to_0p6
+
+NORMAL SEGMENT
+  Total values: 4,761,752 (57.8%)
+
+  Bin 1: 0.60 - 0.69     Count: 1,052,146     Token: lab_creatinine_normal_0p6_to_0p7
+  Bin 2: 0.69 - 0.76     Count: 903,507     Token: lab_creatinine_normal_0p7_to_0p8
+  Bin 3: 0.76 - 0.84     Count: 970,582     Token: lab_creatinine_normal_0p8_to_0p8
+  Bin 4: 0.84 - 0.97     Count: 883,926     Token: lab_creatinine_normal_0p8_to_1p0
+  Bin 5: 0.97 - 1.20     Count: 951,591     Token: lab_creatinine_normal_1p0_to_1p2
+
+ABOVE NORMAL SEGMENT
+  Total values: 2,829,187 (34.3%)
+
+  Bin 1: 1.20 - 1.42     Count: 573,625     Token: lab_creatinine_above_1p2_to_1p4
+  Bin 2: 1.42 - 1.81     Count: 561,742     Token: lab_creatinine_above_1p4_to_1p8
+  Bin 3: 1.81 - 2.63     Count: 562,373     Token: lab_creatinine_above_1p8_to_2p6
+  Bin 4: 2.63 - 4.87     Count: 566,414     Token: lab_creatinine_above_3_to_5
+  Bin 5: 4.87 - 20.00     Count: 565,033     Token: lab_creatinine_above_5_to_20
+
+TOTAL TOKENS: 15
+================================================================================
+
+================================================================================
+GLUCOSE_SERUM
+================================================================================
+Unit: mg/dL
+Normal Range: 70 - 110
+Outlier Range: 0.0 - 2000.0
+Total Values: 6,616,678
+
+BELOW NORMAL SEGMENT
+  Total values: 154,286 (2.3%)
+
+  Bin 1: 5.00 - 56.00     Count: 33,613     Token: lab_glucose_serum_below_5_to_56
+  Bin 2: 56.00 - 63.00     Count: 34,124     Token: lab_glucose_serum_below_56_to_63
+  Bin 3: 63.00 - 66.00     Count: 27,724     Token: lab_glucose_serum_below_63_to_66
+  Bin 4: 66.00 - 69.00     Count: 39,953     Token: lab_glucose_serum_below_66_to_69
+  Bin 5: 69.00 - 70.00     Count: 18,872     Token: lab_glucose_serum_below_69_to_70
+
+NORMAL SEGMENT
+  Total values: 3,027,597 (45.8%)
+
+  Bin 1: 70.00 - 84.00     Count: 617,445     Token: lab_glucose_serum_normal_70_to_84
+  Bin 2: 84.00 - 91.00     Count: 608,348     Token: lab_glucose_serum_normal_84_to_91
+  Bin 3: 91.00 - 97.00     Count: 610,197     Token: lab_glucose_serum_normal_91_to_97
+  Bin 4: 97.00 - 103.00     Count: 597,148     Token: lab_glucose_serum_normal_97_to_103
+  Bin 5: 103.00 - 110.00     Count: 594,459     Token: lab_glucose_serum_normal_103_to_110
+
+ABOVE NORMAL SEGMENT
+  Total values: 3,532,416 (53.4%)
+
+  Bin 1: 110.00 - 120.00     Count: 763,282     Token: lab_glucose_serum_above_110_to_120
+  Bin 2: 120.00 - 133.00     Count: 662,254     Token: lab_glucose_serum_above_120_to_133
+  Bin 3: 133.00 - 154.00     Count: 717,864     Token: lab_glucose_serum_above_133_to_154
+  Bin 4: 154.00 - 193.00     Count: 684,107     Token: lab_glucose_serum_above_154_to_193
+  Bin 5: 193.00 - 1977.00     Count: 704,909     Token: lab_glucose_serum_above_193_to_1977
+
+TOTAL TOKENS: 15
+================================================================================
+
+================================================================================
+MAGNESIUM
+================================================================================
+Unit: mg/dL
+Normal Range: 1.3 - 2.1
+Outlier Range: 0.0 - 10.0
+Total Values: 2,253,384
+
+BELOW NORMAL SEGMENT
+  Total values: 30,443 (1.4%)
+
+  Bin 1: 0.60 - 1.10     Count: 6,960     Token: lab_magnesium_below_0p6_to_1p1
+  Bin 2: 1.10 - 1.20     Count: 7,696     Token: lab_magnesium_below_1p1_to_1p2
+  Bin 3: 1.20 - 1.30     Count: 15,787     Token: lab_magnesium_below_1p2_to_1p3
+
+NORMAL SEGMENT
+  Total values: 1,637,534 (72.7%)
+
+  Bin 1: 1.30 - 1.70     Count: 406,339     Token: lab_magnesium_normal_1p3_to_1p7
+  Bin 2: 1.70 - 1.80     Count: 267,194     Token: lab_magnesium_normal_1p7_to_1p8
+  Bin 3: 1.80 - 1.90     Count: 331,220     Token: lab_magnesium_normal_1p8_to_1p9
+  Bin 4: 1.90 - 2.00     Count: 343,073     Token: lab_magnesium_normal_1p9_to_2p0
+  Bin 5: 2.00 - 2.10     Count: 289,708     Token: lab_magnesium_normal_2p0_to_2p1
+
+ABOVE NORMAL SEGMENT
+  Total values: 890,902 (39.5%)
+
+  Bin 1: 2.10 - 2.20     Count: 499,027     Token: lab_magnesium_above_2p1_to_2p2
+  Bin 2: 2.20 - 2.30     Count: 139,254     Token: lab_magnesium_above_2p2_to_2p3
+  Bin 3: 2.30 - 2.40     Count: 87,822     Token: lab_magnesium_above_2p3_to_2p4
+  Bin 4: 2.40 - 10.00     Count: 164,799     Token: lab_magnesium_above_2_to_10
+
+TOTAL TOKENS: 12
+================================================================================
+
+================================================================================
+PHOSPHATE
+================================================================================
+Unit: mg/dL
+Normal Range: 2.3 - 4.7
+Outlier Range: 0.0 - 15.0
+Total Values: 2,301,560
+
+BELOW NORMAL SEGMENT
+  Total values: 284,138 (12.3%)
+
+  Bin 1: 0.70 - 1.70     Count: 61,200     Token: lab_phosphate_below_1_to_2
+  Bin 2: 1.70 - 2.00     Count: 80,512     Token: lab_phosphate_below_1p7_to_2p0
+  Bin 3: 2.00 - 2.10     Count: 39,758     Token: lab_phosphate_below_2p0_to_2p1
+  Bin 4: 2.10 - 2.20     Count: 47,052     Token: lab_phosphate_below_2p1_to_2p2
+  Bin 5: 2.20 - 2.30     Count: 55,616     Token: lab_phosphate_below_2p2_to_2p3
+
+NORMAL SEGMENT
+  Total values: 1,818,706 (79.0%)
+
+  Bin 1: 2.30 - 2.80     Count: 447,574     Token: lab_phosphate_normal_2p3_to_2p8
+  Bin 2: 2.80 - 3.10     Count: 300,326     Token: lab_phosphate_normal_2p8_to_3p1
+  Bin 3: 3.10 - 3.50     Count: 401,004     Token: lab_phosphate_normal_3p1_to_3p5
+  Bin 4: 3.50 - 3.90     Count: 323,094     Token: lab_phosphate_normal_3p5_to_3p9
+  Bin 5: 3.90 - 4.70     Count: 346,708     Token: lab_phosphate_normal_3p9_to_4p7
+
+ABOVE NORMAL SEGMENT
+  Total values: 281,148 (12.2%)
+
+  Bin 1: 4.70 - 4.90     Count: 70,284     Token: lab_phosphate_above_4p7_to_4p9
+  Bin 2: 4.90 - 5.20     Count: 48,436     Token: lab_phosphate_above_4p9_to_5p2
+  Bin 3: 5.20 - 5.70     Count: 52,586     Token: lab_phosphate_above_5p2_to_5p7
+  Bin 4: 5.70 - 6.70     Count: 57,396     Token: lab_phosphate_above_6_to_7
+  Bin 5: 6.70 - 15.00     Count: 52,446     Token: lab_phosphate_above_7_to_15
+
+TOTAL TOKENS: 15
+================================================================================
+
+================================================================================
+POTASSIUM
+================================================================================
+Unit: mmol/L
+Normal Range: 3.5 - 5
+Outlier Range: 0.0 - 15.0
+Total Values: 9,229,997
+
+BELOW NORMAL SEGMENT
+  Total values: 1,310,401 (14.2%)
+
+  Bin 1: 1.20 - 3.10     Count: 263,365     Token: lab_potassium_below_1_to_3
+  Bin 2: 3.10 - 3.30     Count: 359,567     Token: lab_potassium_below_3p1_to_3p3
+  Bin 3: 3.30 - 3.40     Count: 292,677     Token: lab_potassium_below_3p3_to_3p4
+  Bin 4: 3.40 - 3.50     Count: 394,792     Token: lab_potassium_below_3p4_to_3p5
+
+NORMAL SEGMENT
+  Total values: 7,750,523 (84.0%)
+
+  Bin 1: 3.50 - 3.80     Count: 2,187,574     Token: lab_potassium_normal_3p5_to_3p8
+  Bin 2: 3.80 - 4.00     Count: 1,532,934     Token: lab_potassium_normal_3p8_to_4p0
+  Bin 3: 4.00 - 4.20     Count: 1,426,783     Token: lab_potassium_normal_4p0_to_4p2
+  Bin 4: 4.20 - 4.40     Count: 1,092,709     Token: lab_potassium_normal_4p2_to_4p4
+  Bin 5: 4.40 - 5.00     Count: 1,510,523     Token: lab_potassium_normal_4p4_to_5p0
+
+ABOVE NORMAL SEGMENT
+  Total values: 697,144 (7.6%)
+
+  Bin 1: 5.00 - 5.10     Count: 241,138     Token: lab_potassium_above_5p0_to_5p1
+  Bin 2: 5.10 - 5.20     Count: 86,372     Token: lab_potassium_above_5p1_to_5p2
+  Bin 3: 5.20 - 5.40     Count: 127,359     Token: lab_potassium_above_5p2_to_5p4
+  Bin 4: 5.40 - 5.70     Count: 113,110     Token: lab_potassium_above_5p4_to_5p7
+  Bin 5: 5.70 - 11.00     Count: 129,165     Token: lab_potassium_above_6_to_11
+
+TOTAL TOKENS: 14
+================================================================================
+
+================================================================================
+BASOPHILS_ABSOLUTE
+================================================================================
+Unit: 10^3/µL
+Normal Range: 0 - 0.2
+Outlier Range: 0.0 - 50.0
+Total Values: 2,763,527
+
+NORMAL SEGMENT
+  Total values: 2,736,658 (99.0%)
+
+  Bin 1: -0.00 - 0.01     Count: 666,269     Token: lab_basophils_absolute_normal_-0p0_to_0p0
+  Bin 2: 0.01 - 0.02     Count: 500,391     Token: lab_basophils_absolute_normal_0p0_to_0p0
+  Bin 3: 0.02 - 0.04     Count: 812,365     Token: lab_basophils_absolute_normal_0p0_to_0p0
+  Bin 4: 0.04 - 0.05     Count: 249,803     Token: lab_basophils_absolute_normal_0p0_to_0p1
+  Bin 5: 0.05 - 0.20     Count: 507,830     Token: lab_basophils_absolute_normal_0p1_to_0p2
+
+ABOVE NORMAL SEGMENT
+  Total values: 28,370 (1.0%)
+
+  Bin 1: 0.20 - 0.25     Count: 5,951     Token: lab_basophils_absolute_above_0p2_to_0p2
+  Bin 2: 0.25 - 0.90     Count: 7,028     Token: lab_basophils_absolute_above_0p2_to_0p9
+  Bin 3: 0.90 - 1.00     Count: 5,832     Token: lab_basophils_absolute_above_0p9_to_1p0
+  Bin 4: 1.00 - 2.40     Count: 3,911     Token: lab_basophils_absolute_above_1_to_2
+  Bin 5: 2.40 - 50.00     Count: 5,648     Token: lab_basophils_absolute_above_2_to_50
+
+TOTAL TOKENS: 10
+================================================================================
+
+================================================================================
+EOSINOPHILS_ABSOLUTE
+================================================================================
+Unit: 10^3/µL
+Normal Range: 0 - 0.5
+Outlier Range: 0.0 - 50.0
+Total Values: 2,121,752
+
+NORMAL SEGMENT
+  Total values: 1,999,265 (94.2%)
+
+  Bin 1: -0.00 - 0.04     Count: 859,697     Token: lab_eosinophils_absolute_normal_-0p0_to_0p0
+  Bin 2: 0.04 - 0.10     Count: 366,896     Token: lab_eosinophils_absolute_normal_0p0_to_0p1
+  Bin 3: 0.10 - 0.20     Count: 399,440     Token: lab_eosinophils_absolute_normal_0p1_to_0p2
+  Bin 4: 0.20 - 0.50     Count: 373,232     Token: lab_eosinophils_absolute_normal_0p2_to_0p5
+
+ABOVE NORMAL SEGMENT
+  Total values: 126,887 (6.0%)
+
+  Bin 1: 0.50 - 0.56     Count: 25,744     Token: lab_eosinophils_absolute_above_0p5_to_0p6
+  Bin 2: 0.56 - 0.67     Count: 25,215     Token: lab_eosinophils_absolute_above_0p6_to_0p7
+  Bin 3: 0.67 - 0.90     Count: 27,198     Token: lab_eosinophils_absolute_above_0p7_to_0p9
+  Bin 4: 0.90 - 1.37     Count: 23,419     Token: lab_eosinophils_absolute_above_0p9_to_1p4
+  Bin 5: 1.37 - 50.00     Count: 25,311     Token: lab_eosinophils_absolute_above_1_to_50
+
+TOTAL TOKENS: 9
+================================================================================
+
+================================================================================
+HEMOGLOBIN
+================================================================================
+Unit: g/dL
+Normal Range: 12 - 18
+Outlier Range: 2.0 - 25.0
+Total Values: 9,777,180
+
+BELOW NORMAL SEGMENT
+  Total values: 7,595,800 (77.7%)
+
+  Bin 1: 2.00 - 7.70     Count: 1,524,360     Token: lab_hemoglobin_below_2_to_8
+  Bin 2: 7.70 - 8.60     Count: 1,565,988     Token: lab_hemoglobin_below_7p7_to_8p6
+  Bin 3: 8.60 - 9.60     Count: 1,524,224     Token: lab_hemoglobin_below_9_to_10
+  Bin 4: 9.60 - 10.70     Count: 1,462,400     Token: lab_hemoglobin_below_10_to_11
+  Bin 5: 10.70 - 12.00     Count: 1,518,828     Token: lab_hemoglobin_below_11_to_12
+
+NORMAL SEGMENT
+  Total values: 2,280,688 (23.3%)
+
+  Bin 1: 12.00 - 12.40     Count: 506,252     Token: lab_hemoglobin_normal_12p0_to_12p4
+  Bin 2: 12.40 - 12.90     Count: 447,552     Token: lab_hemoglobin_normal_12p4_to_12p9
+  Bin 3: 12.90 - 13.50     Count: 441,568     Token: lab_hemoglobin_normal_12p9_to_13p5
+  Bin 4: 13.50 - 14.40     Count: 458,292     Token: lab_hemoglobin_normal_13p5_to_14p4
+  Bin 5: 14.40 - 18.00     Count: 427,024     Token: lab_hemoglobin_normal_14_to_18
+
+ABOVE NORMAL SEGMENT
+  Total values: 6,564 (0.1%)
+
+  Bin 1: 18.00 - 18.10     Count: 1,428     Token: lab_hemoglobin_above_18p0_to_18p1
+  Bin 2: 18.10 - 18.30     Count: 1,292     Token: lab_hemoglobin_above_18p1_to_18p3
+  Bin 3: 18.30 - 18.60     Count: 1,396     Token: lab_hemoglobin_above_18p3_to_18p6
+  Bin 4: 18.60 - 19.10     Count: 1,248     Token: lab_hemoglobin_above_18p6_to_19p1
+  Bin 5: 19.10 - 24.60     Count: 1,200     Token: lab_hemoglobin_above_19_to_25
+
+TOTAL TOKENS: 15
+================================================================================
+
+================================================================================
+MONOCYTES_ABSOLUTE
+================================================================================
+Unit: 10^3/µL
+Normal Range: 0.2 - 0.8
+Outlier Range: 0.0 - 50.0
+Total Values: 2,771,475
+
+BELOW NORMAL SEGMENT
+  Total values: 237,580 (8.6%)
+
+  Bin 1: -0.00 - 0.01     Count: 49,368     Token: lab_monocytes_absolute_below_-0p0_to_0p0
+  Bin 2: 0.01 - 0.05     Count: 48,404     Token: lab_monocytes_absolute_below_0p0_to_0p1
+  Bin 3: 0.05 - 0.10     Count: 48,637     Token: lab_monocytes_absolute_below_0p1_to_0p1
+  Bin 4: 0.10 - 0.16     Count: 51,848     Token: lab_monocytes_absolute_below_0p1_to_0p2
+  Bin 5: 0.16 - 0.20     Count: 39,323     Token: lab_monocytes_absolute_below_0p2_to_0p2
+
+NORMAL SEGMENT
+  Total values: 1,546,563 (55.8%)
+
+  Bin 1: 0.20 - 0.38     Count: 311,731     Token: lab_monocytes_absolute_normal_0p2_to_0p4
+  Bin 2: 0.38 - 0.49     Count: 318,007     Token: lab_monocytes_absolute_normal_0p4_to_0p5
+  Bin 3: 0.49 - 0.59     Count: 320,299     Token: lab_monocytes_absolute_normal_0p5_to_0p6
+  Bin 4: 0.59 - 0.69     Count: 306,685     Token: lab_monocytes_absolute_normal_0p6_to_0p7
+  Bin 5: 0.69 - 0.80     Count: 289,841     Token: lab_monocytes_absolute_normal_0p7_to_0p8
+
+ABOVE NORMAL SEGMENT
+  Total values: 1,021,592 (36.9%)
+
+  Bin 1: 0.80 - 0.89     Count: 216,752     Token: lab_monocytes_absolute_above_0p8_to_0p9
+  Bin 2: 0.89 - 1.01     Count: 204,011     Token: lab_monocytes_absolute_above_0p9_to_1p0
+  Bin 3: 1.01 - 1.18     Count: 194,165     Token: lab_monocytes_absolute_above_1p0_to_1p2
+  Bin 4: 1.18 - 1.54     Count: 205,424     Token: lab_monocytes_absolute_above_1p2_to_1p5
+  Bin 5: 1.54 - 50.00     Count: 201,240     Token: lab_monocytes_absolute_above_2_to_50
+
+TOTAL TOKENS: 15
+================================================================================
+
+================================================================================
+NEUTROPHILS_ABSOLUTE
+================================================================================
+Unit: 10^3/µL
+Normal Range: 2 - 7.5
+Outlier Range: 0.0 - 50.0
+Total Values: 4,855,651
+
+BELOW NORMAL SEGMENT
+  Total values: 513,888 (10.6%)
+
+  Bin 1: -0.00 - 0.11     Count: 106,241     Token: lab_neutrophils_absolute_below_-0p0_to_0p1
+  Bin 2: 0.11 - 0.64     Count: 100,167     Token: lab_neutrophils_absolute_below_0p1_to_0p6
+  Bin 3: 0.64 - 1.26     Count: 102,976     Token: lab_neutrophils_absolute_below_0p6_to_1p3
+  Bin 4: 1.26 - 1.68     Count: 103,469     Token: lab_neutrophils_absolute_below_1p3_to_1p7
+  Bin 5: 1.68 - 2.00     Count: 101,035     Token: lab_neutrophils_absolute_below_1p7_to_2p0
+
+NORMAL SEGMENT
+  Total values: 2,722,661 (56.1%)
+
+  Bin 1: 2.00 - 3.19     Count: 546,521     Token: lab_neutrophils_absolute_normal_2_to_3
+  Bin 2: 3.19 - 4.15     Count: 546,246     Token: lab_neutrophils_absolute_normal_3p2_to_4p2
+  Bin 3: 4.15 - 5.11     Count: 544,844     Token: lab_neutrophils_absolute_normal_4p2_to_5p1
+  Bin 4: 5.11 - 6.18     Count: 541,851     Token: lab_neutrophils_absolute_normal_5_to_6
+  Bin 5: 6.18 - 7.50     Count: 543,199     Token: lab_neutrophils_absolute_normal_6_to_8
+
+ABOVE NORMAL SEGMENT
+  Total values: 1,626,086 (33.5%)
+
+  Bin 1: 7.50 - 8.49     Count: 325,979     Token: lab_neutrophils_absolute_above_7p5_to_8p5
+  Bin 2: 8.49 - 9.77     Count: 325,597     Token: lab_neutrophils_absolute_above_8_to_10
+  Bin 3: 9.77 - 11.58     Count: 325,136     Token: lab_neutrophils_absolute_above_10_to_12
+  Bin 4: 11.58 - 14.77     Count: 324,290     Token: lab_neutrophils_absolute_above_12_to_15
+  Bin 5: 14.77 - 49.99     Count: 325,084     Token: lab_neutrophils_absolute_above_15_to_50
+
+TOTAL TOKENS: 15
+================================================================================
+
+================================================================================
+PLATELET_COUNT
+================================================================================
+Unit: 10^3/µL
+Normal Range: 150 - 350
+Outlier Range: 0.0 - 2000.0
+Total Values: 11,932,983
+
+BELOW NORMAL SEGMENT
+  Total values: 3,256,743 (27.3%)
+
+  Bin 1: -0.00 - 43.00     Count: 651,408     Token: lab_platelet_count_below_0_to_43
+  Bin 2: 43.00 - 81.00     Count: 660,103     Token: lab_platelet_count_below_43_to_81
+  Bin 3: 81.00 - 110.00     Count: 651,008     Token: lab_platelet_count_below_81_to_110
+  Bin 4: 110.00 - 133.00     Count: 665,791     Token: lab_platelet_count_below_110_to_133
+  Bin 5: 133.00 - 150.00     Count: 628,433     Token: lab_platelet_count_below_133_to_150
+
+NORMAL SEGMENT
+  Total values: 7,148,287 (59.9%)
+
+  Bin 1: 150.00 - 182.00     Count: 1,438,371     Token: lab_platelet_count_normal_150_to_182
+  Bin 2: 182.00 - 213.00     Count: 1,465,470     Token: lab_platelet_count_normal_182_to_213
+  Bin 3: 213.00 - 245.00     Count: 1,405,204     Token: lab_platelet_count_normal_213_to_245
+  Bin 4: 245.00 - 286.00     Count: 1,439,837     Token: lab_platelet_count_normal_245_to_286
+  Bin 5: 286.00 - 350.00     Count: 1,399,405     Token: lab_platelet_count_normal_286_to_350
+
+ABOVE NORMAL SEGMENT
+  Total values: 1,585,151 (13.3%)
+
+  Bin 1: 350.00 - 372.00     Count: 327,291     Token: lab_platelet_count_above_350_to_372
+  Bin 2: 372.00 - 400.00     Count: 307,475     Token: lab_platelet_count_above_372_to_400
+  Bin 3: 400.00 - 442.00     Count: 322,174     Token: lab_platelet_count_above_400_to_442
+  Bin 4: 442.00 - 513.00     Count: 313,345     Token: lab_platelet_count_above_442_to_513
+  Bin 5: 513.00 - 1997.00     Count: 314,866     Token: lab_platelet_count_above_513_to_1997
+
+TOTAL TOKENS: 15
+================================================================================
+
+================================================================================
+WBC
+================================================================================
+Unit: 10^3/µL
+Normal Range: 4.5 - 11
+Outlier Range: 0.0 - 500.0
+Total Values: 3,279,590
+
+BELOW NORMAL SEGMENT
+  Total values: 490,920 (15.0%)
+
+  Bin 1: -0.00 - 1.00     Count: 113,132     Token: lab_wbc_below_0_to_1
+  Bin 2: 1.00 - 2.47     Count: 83,808     Token: lab_wbc_below_1_to_2
+  Bin 3: 2.47 - 3.42     Count: 98,428     Token: lab_wbc_below_2p5_to_3p4
+  Bin 4: 3.42 - 4.01     Count: 98,050     Token: lab_wbc_below_3p4_to_4p0
+  Bin 5: 4.01 - 4.50     Count: 97,502     Token: lab_wbc_below_4p0_to_4p5
+
+NORMAL SEGMENT
+  Total values: 1,865,860 (56.9%)
+
+  Bin 1: 4.50 - 5.82     Count: 374,614     Token: lab_wbc_normal_4_to_6
+  Bin 2: 5.82 - 6.93     Count: 373,436     Token: lab_wbc_normal_6_to_7
+  Bin 3: 6.93 - 8.06     Count: 374,434     Token: lab_wbc_normal_7_to_8
+  Bin 4: 8.06 - 9.35     Count: 370,850     Token: lab_wbc_normal_8_to_9
+  Bin 5: 9.35 - 11.00     Count: 372,526     Token: lab_wbc_normal_9_to_11
+
+ABOVE NORMAL SEGMENT
+  Total values: 929,124 (28.3%)
+
+  Bin 1: 11.00 - 12.07     Count: 186,972     Token: lab_wbc_above_11_to_12
+  Bin 2: 12.07 - 13.49     Count: 185,254     Token: lab_wbc_above_12_to_13
+  Bin 3: 13.49 - 15.57     Count: 185,810     Token: lab_wbc_above_13_to_16
+  Bin 4: 15.57 - 19.77     Count: 185,478     Token: lab_wbc_above_16_to_20
+  Bin 5: 19.77 - 498.57     Count: 185,610     Token: lab_wbc_above_20_to_499
+
+TOTAL TOKENS: 15
+================================================================================
+
+================================================================================
+INR
+================================================================================
+Unit: (no units)
+Normal Range: 0.9 - 1.1
+Outlier Range: 0.0 - 15.0
+Total Values: 1,926,655
+
+BELOW NORMAL SEGMENT
+  Total values: 9,538 (0.5%)
+
+  Bin 1: 0.80 - 0.88     Count: 2,265     Token: lab_inr_below_0p8_to_0p9
+  Bin 2: 0.88 - 0.89     Count: 2,926     Token: lab_inr_below_0p9_to_0p9
+  Bin 3: 0.89 - 0.90     Count: 4,347     Token: lab_inr_below_0p9_to_0p9
+
+NORMAL SEGMENT
+  Total values: 878,867 (45.6%)
+
+  Bin 1: 0.90 - 0.98     Count: 194,904     Token: lab_inr_normal_0p9_to_1p0
+  Bin 2: 0.98 - 1.01     Count: 157,051     Token: lab_inr_normal_1p0_to_1p0
+  Bin 3: 1.01 - 1.04     Count: 190,055     Token: lab_inr_normal_1p0_to_1p0
+  Bin 4: 1.04 - 1.07     Count: 176,930     Token: lab_inr_normal_1p0_to_1p1
+  Bin 5: 1.07 - 1.10     Count: 159,927     Token: lab_inr_normal_1p1_to_1p1
+
+ABOVE NORMAL SEGMENT
+  Total values: 1,092,491 (56.7%)
+
+  Bin 1: 1.10 - 1.15     Count: 244,801     Token: lab_inr_above_1p1_to_1p1
+  Bin 2: 1.15 - 1.23     Count: 195,986     Token: lab_inr_above_1p1_to_1p2
+  Bin 3: 1.23 - 1.39     Count: 221,177     Token: lab_inr_above_1p2_to_1p4
+  Bin 4: 1.39 - 1.79     Count: 214,968     Token: lab_inr_above_1p4_to_1p8
+  Bin 5: 1.79 - 14.98     Count: 215,559     Token: lab_inr_above_2_to_15
+
+TOTAL TOKENS: 13
+================================================================================
+
+================================================================================
+PTT
+================================================================================
+Unit: sec
+Normal Range: 25 - 40
+Outlier Range: 1.0 - 200.0
+Total Values: 1,366,152
+
+BELOW NORMAL SEGMENT
+  Total values: 137,939 (10.1%)
+
+  Bin 1: 2.00 - 22.30     Count: 28,133     Token: lab_ptt_below_2_to_22
+  Bin 2: 22.30 - 23.40     Count: 30,243     Token: lab_ptt_below_22_to_23
+  Bin 3: 23.40 - 24.00     Count: 25,299     Token: lab_ptt_below_23p4_to_24p0
+  Bin 4: 24.00 - 24.60     Count: 30,117     Token: lab_ptt_below_24p0_to_24p6
+  Bin 5: 24.60 - 25.00     Count: 24,147     Token: lab_ptt_below_24p6_to_25p0
+
+NORMAL SEGMENT
+  Total values: 784,670 (57.4%)
+
+  Bin 1: 25.00 - 27.00     Count: 163,026     Token: lab_ptt_normal_25_to_27
+  Bin 2: 27.00 - 28.70     Count: 152,752     Token: lab_ptt_normal_27_to_29
+  Bin 3: 28.70 - 30.80     Count: 158,237     Token: lab_ptt_normal_29_to_31
+  Bin 4: 30.80 - 33.90     Count: 154,660     Token: lab_ptt_normal_31_to_34
+  Bin 5: 33.90 - 40.00     Count: 155,995     Token: lab_ptt_normal_34_to_40
+
+ABOVE NORMAL SEGMENT
+  Total values: 450,339 (33.0%)
+
+  Bin 1: 40.00 - 45.80     Count: 90,294     Token: lab_ptt_above_40_to_46
+  Bin 2: 45.80 - 52.20     Count: 90,584     Token: lab_ptt_above_46_to_52
+  Bin 3: 52.20 - 59.20     Count: 89,370     Token: lab_ptt_above_52_to_59
+  Bin 4: 59.20 - 70.50     Count: 90,229     Token: lab_ptt_above_59_to_70
+  Bin 5: 70.50 - 186.00     Count: 89,862     Token: lab_ptt_above_70_to_186
+
+TOTAL TOKENS: 15
+================================================================================
+
+================================================================================
+ALBUMIN
+================================================================================
+Unit: g/dL
+Normal Range: 3.5 - 5
+Outlier Range: 0.0 - 15.0
+Total Values: 5,926,310
+
+BELOW NORMAL SEGMENT
+  Total values: 5,075,554 (85.6%)
+
+  Bin 1: 0.40 - 2.00     Count: 1,144,357     Token: lab_albumin_below_0_to_2
+  Bin 2: 2.00 - 2.40     Count: 985,330     Token: lab_albumin_below_2p0_to_2p4
+  Bin 3: 2.40 - 2.80     Count: 1,174,191     Token: lab_albumin_below_2p4_to_2p8
+  Bin 4: 2.80 - 3.10     Count: 857,718     Token: lab_albumin_below_2p8_to_3p1
+  Bin 5: 3.10 - 3.50     Count: 913,958     Token: lab_albumin_below_3p1_to_3p5
+
+NORMAL SEGMENT
+  Total values: 1,042,093 (17.6%)
+
+  Bin 1: 3.50 - 3.60     Count: 365,325     Token: lab_albumin_normal_3p5_to_3p6
+  Bin 2: 3.60 - 3.70     Count: 146,340     Token: lab_albumin_normal_3p6_to_3p7
+  Bin 3: 3.70 - 3.80     Count: 125,824     Token: lab_albumin_normal_3p7_to_3p8
+  Bin 4: 3.80 - 4.10     Count: 249,131     Token: lab_albumin_normal_3p8_to_4p1
+  Bin 5: 4.10 - 5.00     Count: 155,473     Token: lab_albumin_normal_4p1_to_5p0
+
+ABOVE NORMAL SEGMENT
+  Total values: 5,187 (0.1%)
+
+  Bin 1: 5.00 - 6.70     Count: 5,187     Token: lab_albumin_above_5_to_7
+
+TOTAL TOKENS: 11
+================================================================================
+
+================================================================================
+ALKALINE_PHOSPHATASE
+================================================================================
+Unit: U/L
+Normal Range: 30 - 120
+Outlier Range: 0 - 5000
+Total Values: 4,589,624
+
+BELOW NORMAL SEGMENT
+  Total values: 18,845 (0.4%)
+
+  Bin 1: 5.00 - 30.00     Count: 18,845     Token: lab_alkaline_phosphatase_below_5_to_30
+
+NORMAL SEGMENT
+  Total values: 3,050,377 (66.5%)
+
+  Bin 1: 30.00 - 59.00     Count: 636,447     Token: lab_alkaline_phosphatase_normal_30_to_59
+  Bin 2: 59.00 - 71.00     Count: 593,863     Token: lab_alkaline_phosphatase_normal_59_to_71
+  Bin 3: 71.00 - 84.00     Count: 635,001     Token: lab_alkaline_phosphatase_normal_71_to_84
+  Bin 4: 84.00 - 99.00     Count: 600,039     Token: lab_alkaline_phosphatase_normal_84_to_99
+  Bin 5: 99.00 - 120.00     Count: 585,027     Token: lab_alkaline_phosphatase_normal_99_to_120
+
+ABOVE NORMAL SEGMENT
+  Total values: 1,546,178 (33.7%)
+
+  Bin 1: 120.00 - 136.00     Count: 318,779     Token: lab_alkaline_phosphatase_above_120_to_136
+  Bin 2: 136.00 - 160.00     Count: 303,443     Token: lab_alkaline_phosphatase_above_136_to_160
+  Bin 3: 160.00 - 202.00     Count: 307,512     Token: lab_alkaline_phosphatase_above_160_to_202
+  Bin 4: 202.00 - 302.00     Count: 307,272     Token: lab_alkaline_phosphatase_above_202_to_302
+  Bin 5: 302.00 - 4389.00     Count: 309,172     Token: lab_alkaline_phosphatase_above_302_to_4389
+
+TOTAL TOKENS: 11
+================================================================================
+
+================================================================================
+ALT
+================================================================================
+Unit: U/L
+Normal Range: 10 - 40
+Outlier Range: 0 - 20000
+Total Values: 3,844,047
+
+BELOW NORMAL SEGMENT
+  Total values: 535,367 (13.9%)
+
+  Bin 1: 5.00 - 10.00     Count: 535,367     Token: lab_alt_below_5_to_10
+
+NORMAL SEGMENT
+  Total values: 2,371,879 (61.7%)
+
+  Bin 1: 10.00 - 13.00     Count: 537,983     Token: lab_alt_normal_10_to_13
+  Bin 2: 13.00 - 17.00     Count: 494,113     Token: lab_alt_normal_13_to_17
+  Bin 3: 17.00 - 22.00     Count: 471,740     Token: lab_alt_normal_17_to_22
+  Bin 4: 22.00 - 28.00     Count: 395,094     Token: lab_alt_normal_22_to_28
+  Bin 5: 28.00 - 40.00     Count: 472,949     Token: lab_alt_normal_28_to_40
+
+ABOVE NORMAL SEGMENT
+  Total values: 1,095,042 (28.5%)
+
+  Bin 1: 40.00 - 48.00     Count: 220,389     Token: lab_alt_above_40_to_48
+  Bin 2: 48.00 - 63.00     Count: 227,071     Token: lab_alt_above_48_to_63
+  Bin 3: 63.00 - 90.00     Count: 215,128     Token: lab_alt_above_63_to_90
+  Bin 4: 90.00 - 169.00     Count: 213,739     Token: lab_alt_above_90_to_169
+  Bin 5: 169.00 - 19191.00     Count: 218,715     Token: lab_alt_above_169_to_19191
+
+TOTAL TOKENS: 11
+================================================================================
+
+================================================================================
+AST
+================================================================================
+Unit: U/L
+Normal Range: 10 - 30
+Outlier Range: 0 - 20000
+Total Values: 3,967,221
+
+BELOW NORMAL SEGMENT
+  Total values: 161,277 (4.1%)
+
+  Bin 1: 3.00 - 10.00     Count: 161,277     Token: lab_ast_below_3_to_10
+
+NORMAL SEGMENT
+  Total values: 2,166,009 (54.6%)
+
+  Bin 1: 10.00 - 14.00     Count: 475,386     Token: lab_ast_normal_10_to_14
+  Bin 2: 14.00 - 17.00     Count: 405,390     Token: lab_ast_normal_14_to_17
+  Bin 3: 17.00 - 21.00     Count: 508,161     Token: lab_ast_normal_17_to_21
+  Bin 4: 21.00 - 25.00     Count: 402,543     Token: lab_ast_normal_21_to_25
+  Bin 5: 25.00 - 30.00     Count: 374,529     Token: lab_ast_normal_25_to_30
+
+ABOVE NORMAL SEGMENT
+  Total values: 1,768,008 (44.6%)
+
+  Bin 1: 30.00 - 36.00     Count: 385,830     Token: lab_ast_above_30_to_36
+  Bin 2: 36.00 - 46.00     Count: 346,011     Token: lab_ast_above_36_to_46
+  Bin 3: 46.00 - 64.00     Count: 341,256     Token: lab_ast_above_46_to_64
+  Bin 4: 64.00 - 114.00     Count: 342,507     Token: lab_ast_above_64_to_114
+  Bin 5: 114.00 - 19854.00     Count: 352,404     Token: lab_ast_above_114_to_19854
+
+TOTAL TOKENS: 11
+================================================================================
+
+================================================================================
+BILIRUBIN_CONJUGATED
+================================================================================
+Unit: mg/dL
+Normal Range: 0.1 - 0.3
+Outlier Range: 0.0 - 50.0
+Total Values: 185,220
+
+BELOW NORMAL SEGMENT
+  Total values: 2,330 (1.3%)
+
+  Bin 1: 0.10 - 0.10     Count: 2,330     Token: lab_bilirubin_conjugated_below_0p1_to_0p1
+
+NORMAL SEGMENT
+  Total values: 66,632 (36.0%)
+
+  Bin 1: 0.10 - 0.14     Count: 15,254     Token: lab_bilirubin_conjugated_normal_0p1_to_0p1
+  Bin 2: 0.14 - 0.17     Count: 11,770     Token: lab_bilirubin_conjugated_normal_0p1_to_0p2
+  Bin 3: 0.17 - 0.21     Count: 14,756     Token: lab_bilirubin_conjugated_normal_0p2_to_0p2
+  Bin 4: 0.21 - 0.25     Count: 12,558     Token: lab_bilirubin_conjugated_normal_0p2_to_0p2
+  Bin 5: 0.25 - 0.30     Count: 12,294     Token: lab_bilirubin_conjugated_normal_0p2_to_0p3
+
+ABOVE NORMAL SEGMENT
+  Total values: 120,822 (65.2%)
+
+  Bin 1: 0.30 - 0.44     Count: 25,084     Token: lab_bilirubin_conjugated_above_0p3_to_0p4
+  Bin 2: 0.44 - 0.68     Count: 23,690     Token: lab_bilirubin_conjugated_above_0p4_to_0p7
+  Bin 3: 0.68 - 1.18     Count: 23,744     Token: lab_bilirubin_conjugated_above_0p7_to_1p2
+  Bin 4: 1.18 - 3.10     Count: 24,150     Token: lab_bilirubin_conjugated_above_1_to_3
+  Bin 5: 3.10 - 42.62     Count: 24,154     Token: lab_bilirubin_conjugated_above_3_to_43
+
+TOTAL TOKENS: 11
+================================================================================
+
+================================================================================
+BILIRUBIN_TOTAL
+================================================================================
+Unit: mg/dL
+Normal Range: 0.3 - 1.2
+Outlier Range: 0.0 - 80.0
+Total Values: 5,403,747
+
+BELOW NORMAL SEGMENT
+  Total values: 1,136,544 (21.0%)
+
+  Bin 1: 0.10 - 0.30     Count: 1,136,544     Token: lab_bilirubin_total_below_0p1_to_0p3
+
+NORMAL SEGMENT
+  Total values: 3,800,617 (70.3%)
+
+  Bin 1: 0.30 - 0.40     Count: 1,408,473     Token: lab_bilirubin_total_normal_0p3_to_0p4
+  Bin 2: 0.40 - 0.50     Count: 619,262     Token: lab_bilirubin_total_normal_0p4_to_0p5
+  Bin 3: 0.50 - 0.60     Count: 485,842     Token: lab_bilirubin_total_normal_0p5_to_0p6
+  Bin 4: 0.60 - 0.80     Count: 650,384     Token: lab_bilirubin_total_normal_0p6_to_0p8
+  Bin 5: 0.80 - 1.20     Count: 636,656     Token: lab_bilirubin_total_normal_0p8_to_1p2
+
+ABOVE NORMAL SEGMENT
+  Total values: 1,265,312 (23.4%)
+
+  Bin 1: 1.20 - 1.40     Count: 279,161     Token: lab_bilirubin_total_above_1p2_to_1p4
+  Bin 2: 1.40 - 1.90     Count: 263,788     Token: lab_bilirubin_total_above_1p4_to_1p9
+  Bin 3: 1.90 - 2.80     Count: 220,871     Token: lab_bilirubin_total_above_1p9_to_2p8
+  Bin 4: 2.80 - 6.10     Count: 251,567     Token: lab_bilirubin_total_above_3_to_6
+  Bin 5: 6.10 - 76.40     Count: 249,925     Token: lab_bilirubin_total_above_6_to_76
+
+TOTAL TOKENS: 11
+================================================================================
+
+================================================================================
+TOTAL_PROTEIN
+================================================================================
+Unit: g/dL
+Normal Range: 6 - 8.3
+Outlier Range: 0.0 - 20.0
+Total Values: 5,377,779
+
+BELOW NORMAL SEGMENT
+  Total values: 2,217,534 (41.2%)
+
+  Bin 1: 0.90 - 4.80     Count: 505,444     Token: lab_total_protein_below_1_to_5
+  Bin 2: 4.80 - 5.20     Count: 419,961     Token: lab_total_protein_below_4p8_to_5p2
+  Bin 3: 5.20 - 5.50     Count: 420,518     Token: lab_total_protein_below_5p2_to_5p5
+  Bin 4: 5.50 - 5.80     Count: 502,604     Token: lab_total_protein_below_5p5_to_5p8
+  Bin 5: 5.80 - 6.00     Count: 369,007     Token: lab_total_protein_below_5p8_to_6p0
+
+NORMAL SEGMENT
+  Total values: 3,205,173 (59.6%)
+
+  Bin 1: 6.00 - 6.30     Count: 774,201     Token: lab_total_protein_normal_6p0_to_6p3
+  Bin 2: 6.30 - 6.60     Count: 586,887     Token: lab_total_protein_normal_6p3_to_6p6
+  Bin 3: 6.60 - 7.00     Count: 706,817     Token: lab_total_protein_normal_6p6_to_7p0
+  Bin 4: 7.00 - 7.40     Count: 549,721     Token: lab_total_protein_normal_7p0_to_7p4
+  Bin 5: 7.40 - 8.30     Count: 587,547     Token: lab_total_protein_normal_7p4_to_8p3
+
+ABOVE NORMAL SEGMENT
+  Total values: 173,493 (3.2%)
+
+  Bin 1: 8.30 - 8.40     Count: 56,783     Token: lab_total_protein_above_8p3_to_8p4
+  Bin 2: 8.40 - 8.50     Count: 21,196     Token: lab_total_protein_above_8p4_to_8p5
+  Bin 3: 8.50 - 8.70     Count: 31,605     Token: lab_total_protein_above_8p5_to_8p7
+  Bin 4: 8.70 - 9.10     Count: 34,640     Token: lab_total_protein_above_8p7_to_9p1
+  Bin 5: 9.10 - 18.10     Count: 29,269     Token: lab_total_protein_above_9_to_18
+
+TOTAL TOKENS: 15
+================================================================================
+
+================================================================================
+CALCIUM_IONIZED
+================================================================================
+Unit: mg/dL
+Normal Range: 4.6 - 5.1
+Outlier Range: 0.0 - 20.0
+Total Values: 221,075
+
+BELOW NORMAL SEGMENT
+  Total values: 221,071 (100.0%)
+
+  Bin 1: 0.25 - 1.06     Count: 48,239     Token: lab_calcium_ionized_below_0p2_to_1p1
+  Bin 2: 1.06 - 1.13     Count: 45,290     Token: lab_calcium_ionized_below_1p1_to_1p1
+  Bin 3: 1.13 - 1.19     Count: 41,708     Token: lab_calcium_ionized_below_1p1_to_1p2
+  Bin 4: 1.19 - 1.27     Count: 42,262     Token: lab_calcium_ionized_below_1p2_to_1p3
+  Bin 5: 1.27 - 4.53     Count: 43,572     Token: lab_calcium_ionized_below_1_to_5
+
+ABOVE NORMAL SEGMENT
+  Total values: 4 (0.0%)
+
+  Bin 1: 5.60 - 9.36     Count: 4     Token: lab_calcium_ionized_above_6_to_9
+
+TOTAL TOKENS: 6
+================================================================================
+
+================================================================================
+CRP
+================================================================================
+Unit: mg/L
+Normal Range: 0.08 - 3.1
+Outlier Range: 0.0 - 1000.0
+Total Values: 70,432
+
+NORMAL SEGMENT
+  Total values: 1,928 (2.7%)
+
+  Bin 1: 0.39 - 1.30     Count: 469     Token: lab_crp_normal_0p4_to_1p3
+  Bin 2: 1.30 - 1.70     Count: 373     Token: lab_crp_normal_1p3_to_1p7
+  Bin 3: 1.70 - 2.10     Count: 359     Token: lab_crp_normal_1p7_to_2p1
+  Bin 4: 2.10 - 2.60     Count: 393     Token: lab_crp_normal_2p1_to_2p6
+  Bin 5: 2.60 - 3.10     Count: 334     Token: lab_crp_normal_2p6_to_3p1
+
+ABOVE NORMAL SEGMENT
+  Total values: 68,562 (97.3%)
+
+  Bin 1: 3.10 - 17.70     Count: 13,720     Token: lab_crp_above_3_to_18
+  Bin 2: 17.70 - 44.10     Count: 13,738     Token: lab_crp_above_18_to_44
+  Bin 3: 44.10 - 87.80     Count: 13,688     Token: lab_crp_above_44_to_88
+  Bin 4: 87.80 - 169.40     Count: 13,712     Token: lab_crp_above_88_to_169
+  Bin 5: 169.40 - 610.66     Count: 13,704     Token: lab_crp_above_169_to_611
+
+TOTAL TOKENS: 10
+================================================================================
+
+================================================================================
+ESR
+================================================================================
+Unit: mm/hour
+Normal Range: 0 - 20
+Outlier Range: 0 - 1000
+Total Values: 21,174
+
+NORMAL SEGMENT
+  Total values: 4,385 (20.7%)
+
+  Bin 1: 1.00 - 4.00     Count: 893     Token: lab_esr_normal_1_to_4
+  Bin 2: 4.00 - 8.00     Count: 935     Token: lab_esr_normal_4_to_8
+  Bin 3: 8.00 - 12.00     Count: 934     Token: lab_esr_normal_8_to_12
+  Bin 4: 12.00 - 16.00     Count: 780     Token: lab_esr_normal_12_to_16
+  Bin 5: 16.00 - 20.00     Count: 843     Token: lab_esr_normal_16_to_20
+
+ABOVE NORMAL SEGMENT
+  Total values: 16,948 (80.0%)
+
+  Bin 1: 20.00 - 37.00     Count: 3,514     Token: lab_esr_above_20_to_37
+  Bin 2: 37.00 - 53.00     Count: 3,346     Token: lab_esr_above_37_to_53
+  Bin 3: 53.00 - 67.00     Count: 3,451     Token: lab_esr_above_53_to_67
+  Bin 4: 67.00 - 103.00     Count: 3,261     Token: lab_esr_above_67_to_103
+  Bin 5: 103.00 - 140.00     Count: 3,376     Token: lab_esr_above_103_to_140
+
+TOTAL TOKENS: 10
+================================================================================
+
+================================================================================
+FERRITIN
+================================================================================
+Unit: ng/mL
+Normal Range: 15 - 200
+Outlier Range: 0.0 - 300000.0
+Total Values: 42,258
+
+BELOW NORMAL SEGMENT
+  Total values: 1,574 (3.7%)
+
+  Bin 1: 1.00 - 15.00     Count: 1,574     Token: lab_ferritin_below_1_to_15
+
+NORMAL SEGMENT
+  Total values: 12,154 (28.8%)
+
+  Bin 1: 15.00 - 38.00     Count: 2,447     Token: lab_ferritin_normal_15_to_38
+  Bin 2: 38.00 - 69.00     Count: 2,453     Token: lab_ferritin_normal_38_to_69
+  Bin 3: 69.00 - 106.00     Count: 2,452     Token: lab_ferritin_normal_69_to_106
+  Bin 4: 106.00 - 149.00     Count: 2,417     Token: lab_ferritin_normal_106_to_149
+  Bin 5: 149.00 - 200.00     Count: 2,385     Token: lab_ferritin_normal_149_to_200
+
+ABOVE NORMAL SEGMENT
+  Total values: 28,680 (67.9%)
+
+  Bin 1: 200.00 - 378.00     Count: 5,748     Token: lab_ferritin_above_200_to_378
+  Bin 2: 378.00 - 675.00     Count: 5,726     Token: lab_ferritin_above_378_to_675
+  Bin 3: 675.00 - 1238.00     Count: 5,739     Token: lab_ferritin_above_675_to_1238
+  Bin 4: 1238.00 - 2340.00     Count: 5,735     Token: lab_ferritin_above_1238_to_2340
+  Bin 5: 2340.00 - 39106.00     Count: 5,732     Token: lab_ferritin_above_2340_to_39106
+
+TOTAL TOKENS: 11
+================================================================================
+
+================================================================================
+GLUCOSE_FINGERSTICK
+================================================================================
+Unit: mg/dL
+Normal Range: 70 - 110
+Outlier Range: 0.0 - 2000.0
+Total Values: 3,028,346
+
+BELOW NORMAL SEGMENT
+  Total values: 60,074 (2.0%)
+
+  Bin 1: 20.00 - 51.00     Count: 12,151     Token: lab_glucose_fingerstick_below_20_to_51
+  Bin 2: 51.00 - 60.00     Count: 13,210     Token: lab_glucose_fingerstick_below_51_to_60
+  Bin 3: 60.00 - 65.00     Count: 13,483     Token: lab_glucose_fingerstick_below_60_to_65
+  Bin 4: 65.00 - 68.00     Count: 11,640     Token: lab_glucose_fingerstick_below_65_to_68
+  Bin 5: 68.00 - 70.00     Count: 9,590     Token: lab_glucose_fingerstick_below_68_to_70
+
+NORMAL SEGMENT
+  Total values: 607,986 (20.1%)
+
+  Bin 1: 70.00 - 84.00     Count: 126,130     Token: lab_glucose_fingerstick_normal_70_to_84
+  Bin 2: 84.00 - 92.00     Count: 118,126     Token: lab_glucose_fingerstick_normal_84_to_92
+  Bin 3: 92.00 - 99.00     Count: 129,852     Token: lab_glucose_fingerstick_normal_92_to_99
+  Bin 4: 99.00 - 105.00     Count: 124,431     Token: lab_glucose_fingerstick_normal_99_to_105
+  Bin 5: 105.00 - 110.00     Count: 109,447     Token: lab_glucose_fingerstick_normal_105_to_110
+
+ABOVE NORMAL SEGMENT
+  Total values: 2,387,372 (78.8%)
+
+  Bin 1: 110.00 - 130.00     Count: 483,499     Token: lab_glucose_fingerstick_above_110_to_130
+  Bin 2: 130.00 - 151.00     Count: 473,466     Token: lab_glucose_fingerstick_above_130_to_151
+  Bin 3: 151.00 - 178.00     Count: 485,625     Token: lab_glucose_fingerstick_above_151_to_178
+  Bin 4: 178.00 - 223.00     Count: 467,738     Token: lab_glucose_fingerstick_above_178_to_223
+  Bin 5: 223.00 - 693.00     Count: 477,044     Token: lab_glucose_fingerstick_above_223_to_693
+
+TOTAL TOKENS: 15
+================================================================================
+
+================================================================================
+LACTATE
+================================================================================
+Unit: mmol/L
+Normal Range: 0.5 - 2
+Outlier Range: 0.0 - 30.0
+Total Values: 278,354
+
+BELOW NORMAL SEGMENT
+  Total values: 5,004 (1.8%)
+
+  Bin 1: 0.10 - 0.50     Count: 5,004     Token: lab_lactate_below_0p1_to_0p5
+
+NORMAL SEGMENT
+  Total values: 185,710 (66.7%)
+
+  Bin 1: 0.50 - 0.90     Count: 47,616     Token: lab_lactate_normal_0p5_to_0p9
+  Bin 2: 0.90 - 1.10     Count: 33,520     Token: lab_lactate_normal_0p9_to_1p1
+  Bin 3: 1.10 - 1.30     Count: 31,295     Token: lab_lactate_normal_1p1_to_1p3
+  Bin 4: 1.30 - 1.60     Count: 37,863     Token: lab_lactate_normal_1p3_to_1p6
+  Bin 5: 1.60 - 2.00     Count: 35,416     Token: lab_lactate_normal_1p6_to_2p0
+
+ABOVE NORMAL SEGMENT
+  Total values: 98,484 (35.4%)
+
+  Bin 1: 2.00 - 2.20     Count: 19,866     Token: lab_lactate_above_2p0_to_2p2
+  Bin 2: 2.20 - 2.70     Count: 21,811     Token: lab_lactate_above_2p2_to_2p7
+  Bin 3: 2.70 - 3.40     Count: 17,550     Token: lab_lactate_above_2p7_to_3p4
+  Bin 4: 3.40 - 5.40     Count: 19,834     Token: lab_lactate_above_3_to_5
+  Bin 5: 5.40 - 30.00     Count: 19,423     Token: lab_lactate_above_5_to_30
+
+TOTAL TOKENS: 11
+================================================================================
+
+================================================================================
+LDH
+================================================================================
+Unit: U/L
+Normal Range: 100 - 200
+Outlier Range: 0 - 10000
+Total Values: 163,528
+
+BELOW NORMAL SEGMENT
+  Total values: 1,061 (0.6%)
+
+  Bin 1: 30.00 - 100.00     Count: 1,061     Token: lab_ldh_below_30_to_100
+
+NORMAL SEGMENT
+  Total values: 26,110 (16.0%)
+
+  Bin 1: 100.00 - 139.00     Count: 5,338     Token: lab_ldh_normal_100_to_139
+  Bin 2: 139.00 - 159.00     Count: 5,199     Token: lab_ldh_normal_139_to_159
+  Bin 3: 159.00 - 175.00     Count: 5,507     Token: lab_ldh_normal_159_to_175
+  Bin 4: 175.00 - 188.00     Count: 5,135     Token: lab_ldh_normal_175_to_188
+  Bin 5: 188.00 - 200.00     Count: 4,931     Token: lab_ldh_normal_188_to_200
+
+ABOVE NORMAL SEGMENT
+  Total values: 136,892 (83.7%)
+
+  Bin 1: 200.00 - 264.00     Count: 27,639     Token: lab_ldh_above_200_to_264
+  Bin 2: 264.00 - 347.00     Count: 27,360     Token: lab_ldh_above_264_to_347
+  Bin 3: 347.00 - 476.00     Count: 27,150     Token: lab_ldh_above_347_to_476
+  Bin 4: 476.00 - 719.00     Count: 27,391     Token: lab_ldh_above_476_to_719
+  Bin 5: 719.00 - 9138.00     Count: 27,352     Token: lab_ldh_above_719_to_9138
+
+TOTAL TOKENS: 11
+================================================================================
+
+================================================================================
+PROCALCITONIN
+================================================================================
+Unit: ng/mL
+Normal Range: 0 - 0.05
+Outlier Range: 0.0 - 1000.0
+Total Values: 2,445
+
+NORMAL SEGMENT
+  Total values: 275 (11.2%)
+
+  Bin 1: 0.01 - 0.02     Count: 77     Token: lab_procalcitonin_normal_0p0_to_0p0
+  Bin 2: 0.02 - 0.03     Count: 62     Token: lab_procalcitonin_normal_0p0_to_0p0
+  Bin 3: 0.03 - 0.04     Count: 75     Token: lab_procalcitonin_normal_0p0_to_0p0
+  Bin 4: 0.04 - 0.05     Count: 61     Token: lab_procalcitonin_normal_0p0_to_0p1
+
+ABOVE NORMAL SEGMENT
+  Total values: 2,231 (91.2%)
+
+  Bin 1: 0.05 - 0.14     Count: 461     Token: lab_procalcitonin_above_0p0_to_0p1
+  Bin 2: 0.14 - 0.32     Count: 433     Token: lab_procalcitonin_above_0p1_to_0p3
+  Bin 3: 0.32 - 0.87     Count: 451     Token: lab_procalcitonin_above_0p3_to_0p9
+  Bin 4: 0.87 - 2.87     Count: 440     Token: lab_procalcitonin_above_1_to_3
+  Bin 5: 2.87 - 955.73     Count: 446     Token: lab_procalcitonin_above_3_to_956
+
+TOTAL TOKENS: 9
+================================================================================
+
+================================================================================
+TROPONIN_I
+================================================================================
+Unit: ng/L
+Normal Range: 0 - 40
+Outlier Range: 0.0 - 10000.0
+Total Values: 230,191
+
+NORMAL SEGMENT
+  Total values: 176,109 (76.5%)
+
+  Bin 1: 0.01 - 0.02     Count: 35,360     Token: lab_troponin_i_normal_0p0_to_0p0
+  Bin 2: 0.02 - 0.16     Count: 35,290     Token: lab_troponin_i_normal_0p0_to_0p2
+  Bin 3: 0.16 - 4.50     Count: 35,195     Token: lab_troponin_i_normal_0_to_4
+  Bin 4: 4.50 - 13.40     Count: 35,057     Token: lab_troponin_i_normal_4_to_13
+  Bin 5: 13.40 - 40.00     Count: 35,207     Token: lab_troponin_i_normal_13_to_40
+
+ABOVE NORMAL SEGMENT
+  Total values: 54,152 (23.5%)
+
+  Bin 1: 40.00 - 59.80     Count: 10,838     Token: lab_troponin_i_above_40_to_60
+  Bin 2: 59.80 - 97.60     Count: 10,826     Token: lab_troponin_i_above_60_to_98
+  Bin 3: 97.60 - 194.30     Count: 10,828     Token: lab_troponin_i_above_98_to_194
+  Bin 4: 194.30 - 597.40     Count: 10,834     Token: lab_troponin_i_above_194_to_597
+  Bin 5: 597.40 - 9990.20     Count: 10,826     Token: lab_troponin_i_above_597_to_9990
+
+TOTAL TOKENS: 10
+================================================================================
+
